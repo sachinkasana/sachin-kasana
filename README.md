@@ -42,7 +42,7 @@ Open to collaboration 🚀
   <a href="https://linkedin.com/in/sachin-kasana">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://sachinkasana.dev">
+  <a href="https://sachinkasana-dev.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-4B0082?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
 </p>
