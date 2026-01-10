@@ -1,0 +1,22 @@
+name: Latest Medium posts
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with Medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@sachinkasana,https://sachinkasana.medium.com/feed"
+          max_post_count: 5
+          readme_path: "README.md"
