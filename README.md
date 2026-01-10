@@ -10,7 +10,7 @@ I’m **Sachin Kasana**
 Principal Engineer | Building clean & scalable systems with **Node.js · React · AI**  
 Open to collaboration 🚀
 
-🔗 Portfolio: https://sachinkasana.dev  
+🔗 Portfolio: https://sachinkasana-dev.vercel.app/
 🔗 LinkedIn: https://linkedin.com/in/sachin-kasana
 
 ---
