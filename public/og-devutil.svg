@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="DevUtil.dev">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b1120" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="80" y="90" width="1040" height="450" rx="24" fill="rgba(255,255,255,0.08)" />
+  <text x="140" y="230" font-family="Arial, Helvetica, sans-serif" font-size="56" fill="#ffffff" font-weight="700">
+    DevUtil.dev
+  </text>
+  <text x="140" y="300" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#e2e8f0">
+    Fast, privacy-first developer utilities.
+  </text>
+  <text x="140" y="390" font-family="Courier New, monospace" font-size="22" fill="#e2e8f0">
+    tools() { speed, privacy, simplicity }
+  </text>
+  <text x="140" y="470" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#cbd5f5">
+    sachinkasana-dev.vercel.app
+  </text>
+</svg>

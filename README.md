@@ -61,6 +61,26 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 - 🧩 **DevUtil.dev** — fast, free, privacy-first developer utilities (client-side tools)  
   👉 https://www.devutil.dev/
 
+## 🧪 Developer Tools on My Portfolio
+
+- **JSON Prettifier** — format, validate, and download JSON instantly  
+  👉 https://sachinkasana-dev.vercel.app/tools/json-prettifier
+
+- **Regex Tester** — test patterns with live highlighting and match lists  
+  👉 https://sachinkasana-dev.vercel.app/tools/regex-tester
+
+- **DevUtil.dev** — fast, privacy-first developer utilities  
+  👉 https://www.devutil.dev/
+
+- **JS Event Loop Visualizer** — learn call stack, Web APIs, microtasks, and task queue  
+  👉 https://js-event-loop-visualizer-one.vercel.app/
+
+- **Node.js Event Loop Visualizer** — explore phases and async behavior  
+  👉 https://nodejs-event-loop-visualizer-sachin.vercel.app/
+
+- **DSA Visualizer** — visualize data structures and algorithms  
+  👉 https://dsa-visualizer-sk.vercel.app/
+
 ---
 
 ## 🛠️ Tech Stack
