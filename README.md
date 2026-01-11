@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [The Node.js Event Loop Explained: How It Really Differs from Browser JavaScript](https://javascript.plainenglish.io/the-node-js-event-loop-explained-how-it-really-differs-from-browser-javascript-8b982c91733a?source=rss-93868c9b8bee------2)
+- [The Node.js Event Loop Explained: How It Really Differs from Browser JavaScript](https://javascript.plainenglish.io/the-node-js-event-loop-explained-how-it-really-differs-from-browser-javascript-8b982c91733a?source=rss-93868c9b8bee------2)
 - [I Finally Understood the JavaScript Event Loop After Building This Visualizer](https://javascript.plainenglish.io/i-finally-understood-the-javascript-event-loop-after-building-this-visualizer-73b6b49a6a9a?source=rss-93868c9b8bee------2)
 - [I Finally Understood the JavaScript Event Loop After Building This Visualizer](https://javascript.plainenglish.io/i-finally-understood-the-javascript-event-loop-after-building-this-visualizer-73b6b49a6a9a?source=rss-93868c9b8bee------2)
 - [Node vs Bun vs Deno: What Actually Runs in Production &lpar;2026 Guide&rpar;](https://javascript.plainenglish.io/node-vs-bun-vs-deno-what-actually-runs-in-production-2026-guide-a3552c18ce91?source=rss-93868c9b8bee------2)
-- [Node vs Bun vs Deno: What Actually Runs in Production &lpar;2026 Guide&rpar;](https://javascript.plainenglish.io/node-vs-bun-vs-deno-what-actually-runs-in-production-2026-guide-a3552c18ce91?source=rss-93868c9b8bee------2)
-- [Debugging Nightmare Scenarios in Production Node.js Apps](https://blog.stackademic.com/debugging-nightmare-scenarios-in-production-node-js-apps-986b59e1abce?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
