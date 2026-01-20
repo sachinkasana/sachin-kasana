@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s New in Node.js v25.4.0: Stable ESM, Faster Startup, Better Debugging](https://javascript.plainenglish.io/whats-new-in-node-js-v25-4-0-stable-esm-faster-startup-better-debugging-049896c5540b?source=rss-93868c9b8bee------2)
+- [What’s New in Node.js v25.4.0: Stable ESM, Faster Startup, Better Debugging](https://javascript.plainenglish.io/whats-new-in-node-js-v25-4-0-stable-esm-faster-startup-better-debugging-049896c5540b?source=rss-93868c9b8bee------2)
 - [Optimizing Cold Start Times in Serverless Node.js Functions](https://javascript.plainenglish.io/optimizing-cold-start-times-in-serverless-node-js-functions-d6a10abd4e9b?source=rss-93868c9b8bee------2)
 - [Optimizing Cold Start Times in Serverless Node.js Functions](https://javascript.plainenglish.io/optimizing-cold-start-times-in-serverless-node-js-functions-d6a10abd4e9b?source=rss-93868c9b8bee------2)
 - [The Node.js Event Loop Explained: How It Really Differs from Browser JavaScript](https://javascript.plainenglish.io/the-node-js-event-loop-explained-how-it-really-differs-from-browser-javascript-8b982c91733a?source=rss-93868c9b8bee------2)
-- [The Node.js Event Loop Explained: How It Really Differs from Browser JavaScript](https://javascript.plainenglish.io/the-node-js-event-loop-explained-how-it-really-differs-from-browser-javascript-8b982c91733a?source=rss-93868c9b8bee------2)
-- [I Finally Understood the JavaScript Event Loop After Building This Visualizer](https://javascript.plainenglish.io/i-finally-understood-the-javascript-event-loop-after-building-this-visualizer-73b6b49a6a9a?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
