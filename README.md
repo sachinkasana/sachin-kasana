@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Configuration in Node.js: Stop Redeploying Your App for Small Changes](https://javascript.plainenglish.io/dynamic-configuration-in-node-js-stop-redeploying-your-app-for-small-changes-12bd2dbb5269?source=rss-93868c9b8bee------2)
+- [Dynamic Configuration in Node.js: Stop Redeploying Your App for Small Changes](https://javascript.plainenglish.io/dynamic-configuration-in-node-js-stop-redeploying-your-app-for-small-changes-12bd2dbb5269?source=rss-93868c9b8bee------2)
 - [What’s New in Node.js v25.4.0: Stable ESM, Faster Startup, Better Debugging](https://javascript.plainenglish.io/whats-new-in-node-js-v25-4-0-stable-esm-faster-startup-better-debugging-049896c5540b?source=rss-93868c9b8bee------2)
 - [What’s New in Node.js v25.4.0: Stable ESM, Faster Startup, Better Debugging](https://javascript.plainenglish.io/whats-new-in-node-js-v25-4-0-stable-esm-faster-startup-better-debugging-049896c5540b?source=rss-93868c9b8bee------2)
 - [Optimizing Cold Start Times in Serverless Node.js Functions](https://javascript.plainenglish.io/optimizing-cold-start-times-in-serverless-node-js-functions-d6a10abd4e9b?source=rss-93868c9b8bee------2)
-- [Optimizing Cold Start Times in Serverless Node.js Functions](https://javascript.plainenglish.io/optimizing-cold-start-times-in-serverless-node-js-functions-d6a10abd4e9b?source=rss-93868c9b8bee------2)
-- [The Node.js Event Loop Explained: How It Really Differs from Browser JavaScript](https://javascript.plainenglish.io/the-node-js-event-loop-explained-how-it-really-differs-from-browser-javascript-8b982c91733a?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
