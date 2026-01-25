@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Reduced Node.js API Response Time by 60% &lpar;Without Adding Servers&rpar;](https://javascript.plainenglish.io/how-i-reduced-node-js-api-response-time-by-60-without-adding-servers-600b3a69da3e?source=rss-93868c9b8bee------2)
+- [How I Reduced Node.js API Response Time by 60% &lpar;Without Adding Servers&rpar;](https://javascript.plainenglish.io/how-i-reduced-node-js-api-response-time-by-60-without-adding-servers-600b3a69da3e?source=rss-93868c9b8bee------2)
 - [Dynamic Configuration in Node.js: Stop Redeploying Your App for Small Changes](https://javascript.plainenglish.io/dynamic-configuration-in-node-js-stop-redeploying-your-app-for-small-changes-12bd2dbb5269?source=rss-93868c9b8bee------2)
 - [Dynamic Configuration in Node.js: Stop Redeploying Your App for Small Changes](https://javascript.plainenglish.io/dynamic-configuration-in-node-js-stop-redeploying-your-app-for-small-changes-12bd2dbb5269?source=rss-93868c9b8bee------2)
 - [What’s New in Node.js v25.4.0: Stable ESM, Faster Startup, Better Debugging](https://javascript.plainenglish.io/whats-new-in-node-js-v25-4-0-stable-esm-faster-startup-better-debugging-049896c5540b?source=rss-93868c9b8bee------2)
-- [What’s New in Node.js v25.4.0: Stable ESM, Faster Startup, Better Debugging](https://javascript.plainenglish.io/whats-new-in-node-js-v25-4-0-stable-esm-faster-startup-better-debugging-049896c5540b?source=rss-93868c9b8bee------2)
-- [Optimizing Cold Start Times in Serverless Node.js Functions](https://javascript.plainenglish.io/optimizing-cold-start-times-in-serverless-node-js-functions-d6a10abd4e9b?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
