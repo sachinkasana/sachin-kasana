@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js Performance Checklist Before You Add More Servers &lpar;Senior Engineer Edition&rpar;](https://javascript.plainenglish.io/node-js-performance-checklist-before-you-add-more-servers-senior-engineer-edition-1b7f1b45fa9f?source=rss-93868c9b8bee------2)
+- [Node.js Performance Checklist Before You Add More Servers &lpar;Senior Engineer Edition&rpar;](https://javascript.plainenglish.io/node-js-performance-checklist-before-you-add-more-servers-senior-engineer-edition-1b7f1b45fa9f?source=rss-93868c9b8bee------2)
 - [How I Found and Fixed Slow Database Queries in a Node.js App](https://javascript.plainenglish.io/how-i-found-and-fixed-slow-database-queries-in-a-node-js-app-786605f667bd?source=rss-93868c9b8bee------2)
 - [How I Found and Fixed Slow Database Queries in a Node.js App](https://javascript.plainenglish.io/how-i-found-and-fixed-slow-database-queries-in-a-node-js-app-786605f667bd?source=rss-93868c9b8bee------2)
 - [How I Reduced Node.js API Response Time by 60% &lpar;Without Adding Servers&rpar;](https://javascript.plainenglish.io/how-i-reduced-node-js-api-response-time-by-60-without-adding-servers-600b3a69da3e?source=rss-93868c9b8bee------2)
-- [How I Reduced Node.js API Response Time by 60% &lpar;Without Adding Servers&rpar;](https://javascript.plainenglish.io/how-i-reduced-node-js-api-response-time-by-60-without-adding-servers-600b3a69da3e?source=rss-93868c9b8bee------2)
-- [Dynamic Configuration in Node.js: Stop Redeploying Your App for Small Changes](https://javascript.plainenglish.io/dynamic-configuration-in-node-js-stop-redeploying-your-app-for-small-changes-12bd2dbb5269?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
