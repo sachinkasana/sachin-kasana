@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [I Stopped Trusting npm audit. Here’s How I Secure Node.js in Production](https://javascript.plainenglish.io/i-stopped-trusting-npm-audit-heres-how-i-secure-node-js-in-production-a3aff42fce3d?source=rss-93868c9b8bee------2)
+- [I Stopped Trusting npm audit. Here’s How I Secure Node.js in Production](https://javascript.plainenglish.io/i-stopped-trusting-npm-audit-heres-how-i-secure-node-js-in-production-a3aff42fce3d?source=rss-93868c9b8bee------2)
 - [How to Process a 10M-Row CSV in Node.js Without Crashing Memory](https://javascript.plainenglish.io/how-to-process-a-10m-row-csv-in-node-js-without-crashing-memory-67db31ba5770?source=rss-93868c9b8bee------2)
 - [How to Process a 10M-Row CSV in Node.js Without Crashing Memory](https://javascript.plainenglish.io/how-to-process-a-10m-row-csv-in-node-js-without-crashing-memory-67db31ba5770?source=rss-93868c9b8bee------2)
 - [Why Certain JavaScript Code Patterns Hurt V8 Performance](https://javascript.plainenglish.io/why-certain-javascript-code-patterns-hurt-v8-performance-b0aec0e4f759?source=rss-93868c9b8bee------2)
-- [Why Certain JavaScript Code Patterns Hurt V8 Performance](https://javascript.plainenglish.io/why-certain-javascript-code-patterns-hurt-v8-performance-b0aec0e4f759?source=rss-93868c9b8bee------2)
-- [Node.js Performance Checklist Before You Add More Servers &lpar;Senior Engineer Edition&rpar;](https://javascript.plainenglish.io/node-js-performance-checklist-before-you-add-more-servers-senior-engineer-edition-1b7f1b45fa9f?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
