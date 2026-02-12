@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js vs Python for AI Backends: Why Node.js Is Underrated for Serving LLM APIs](https://javascript.plainenglish.io/node-js-vs-python-for-ai-backends-why-node-js-is-underrated-for-serving-llm-apis-275aee784dbe?source=rss-93868c9b8bee------2)
+- [Node.js vs Python for AI Backends: Why Node.js Is Underrated for Serving LLM APIs](https://javascript.plainenglish.io/node-js-vs-python-for-ai-backends-why-node-js-is-underrated-for-serving-llm-apis-275aee784dbe?source=rss-93868c9b8bee------2)
 - [Free Online Developer Tools &lpar;No Ads, No Tracking&rpar;: The Story of devutil.dev](https://blog.stackademic.com/free-online-developer-tools-no-ads-no-tracking-the-story-of-devutil-dev-d04a21051ab9?source=rss-93868c9b8bee------2)
 - [Free Online Developer Tools &lpar;No Ads, No Tracking&rpar;: The Story of devutil.dev](https://blog.stackademic.com/free-online-developer-tools-no-ads-no-tracking-the-story-of-devutil-dev-d04a21051ab9?source=rss-93868c9b8bee------2)
 - [Backpressure in Node.js: The Concept Everyone Skips](https://javascript.plainenglish.io/backpressure-in-node-js-the-concept-everyone-skips-0e6583e52b7f?source=rss-93868c9b8bee------2)
-- [Backpressure in Node.js: The Concept Everyone Skips](https://javascript.plainenglish.io/backpressure-in-node-js-the-concept-everyone-skips-0e6583e52b7f?source=rss-93868c9b8bee------2)
-- [I Stopped Trusting npm audit. Here’s How I Secure Node.js in Production](https://javascript.plainenglish.io/i-stopped-trusting-npm-audit-heres-how-i-secure-node-js-in-production-a3aff42fce3d?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
