@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Your JWT Implementation Is Probably Insecure](https://sachinkasana.medium.com/your-jwt-implementation-is-probably-insecure-851cecfc53a4?source=rss-93868c9b8bee------2)
+- [Your JWT Implementation Is Probably Insecure](https://sachinkasana.medium.com/your-jwt-implementation-is-probably-insecure-851cecfc53a4?source=rss-93868c9b8bee------2)
 - [Why Most Node.js Permission Systems Fail in Production &lpar;And How to Design It Properly&rpar;](https://sachinkasana.medium.com/why-most-node-js-permission-systems-fail-in-production-and-how-to-design-it-properly-6e247743efc7?source=rss-93868c9b8bee------2)
 - [Why Most Node.js Permission Systems Fail in Production &lpar;And How to Design It Properly&rpar;](https://sachinkasana.medium.com/why-most-node-js-permission-systems-fail-in-production-and-how-to-design-it-properly-6e247743efc7?source=rss-93868c9b8bee------2)
 - [Node.js vs Python for AI Backends: Why Node.js Is Underrated for Serving LLM APIs](https://sachinkasana.medium.com/node-js-vs-python-for-ai-backends-why-node-js-is-underrated-for-serving-llm-apis-275aee784dbe?source=rss-93868c9b8bee------2)
-- [Node.js vs Python for AI Backends: Why Node.js Is Underrated for Serving LLM APIs](https://sachinkasana.medium.com/node-js-vs-python-for-ai-backends-why-node-js-is-underrated-for-serving-llm-apis-275aee784dbe?source=rss-93868c9b8bee------2)
-- [Free Online Developer Tools &lpar;No Ads, No Tracking&rpar;: The Story of devutil.dev](https://sachinkasana.medium.com/free-online-developer-tools-no-ads-no-tracking-the-story-of-devutil-dev-d04a21051ab9?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
