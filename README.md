@@ -119,8 +119,8 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Cut Node.js Memory Usage by 40% Without Touching the Code](https://sachinkasana.medium.com/how-i-cut-node-js-memory-usage-by-40-without-touching-the-code-ecbc8083d8a9?source=rss-93868c9b8bee------2)
-- [How I Cut Node.js Memory Usage by 40% Without Touching the Code](https://sachinkasana.medium.com/how-i-cut-node-js-memory-usage-by-40-without-touching-the-code-ecbc8083d8a9?source=rss-93868c9b8bee------2)
+- [How I Cut Node.js Memory Usage by 40% Without Touching the Code](https://blog.stackademic.com/how-i-cut-node-js-memory-usage-by-40-without-touching-the-code-ecbc8083d8a9?source=rss-93868c9b8bee------2)
+- [How I Cut Node.js Memory Usage by 40% Without Touching the Code](https://blog.stackademic.com/how-i-cut-node-js-memory-usage-by-40-without-touching-the-code-ecbc8083d8a9?source=rss-93868c9b8bee------2)
 - [3 Billion URLs. Limited Memory. How Would You Detect Duplicates?](https://blog.stackademic.com/3-billion-urls-limited-memory-how-would-you-detect-duplicates-8f59f486743b?source=rss-93868c9b8bee------2)
 - [3 Billion URLs. Limited Memory. How Would You Detect Duplicates?](https://blog.stackademic.com/3-billion-urls-limited-memory-how-would-you-detect-duplicates-8f59f486743b?source=rss-93868c9b8bee------2)
 - [8 TB of Clickstream Data. How Do You Count Unique Users Without Running Out of Memory?](https://blog.stackademic.com/8-tb-of-clickstream-data-how-do-you-count-unique-users-without-running-out-of-memory-917067b06e90?source=rss-93868c9b8bee------2)
