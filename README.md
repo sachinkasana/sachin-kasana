@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Memory Leaks: Deep Dive into Detection, GC Internals &amp; Real Fixes](https://medium.com/front-end-world/javascript-memory-leaks-deep-dive-into-detection-gc-internals-real-fixes-0ab59edd2396?source=rss-93868c9b8bee------2)
+- [JavaScript Memory Leaks: Deep Dive into Detection, GC Internals &amp; Real Fixes](https://medium.com/front-end-world/javascript-memory-leaks-deep-dive-into-detection-gc-internals-real-fixes-0ab59edd2396?source=rss-93868c9b8bee------2)
 - [The Future of Backend: APIs vs AI Agents &lpar;With Real Examples&rpar;](https://blog.stackademic.com/the-future-of-backend-apis-vs-ai-agents-with-real-examples-a93f89fc57ab?source=rss-93868c9b8bee------2)
 - [The Future of Backend: APIs vs AI Agents &lpar;With Real Examples&rpar;](https://blog.stackademic.com/the-future-of-backend-apis-vs-ai-agents-with-real-examples-a93f89fc57ab?source=rss-93868c9b8bee------2)
 - [How I Cut Node.js Memory Usage by 40% Without Touching the Code](https://blog.stackademic.com/how-i-cut-node-js-memory-usage-by-40-without-touching-the-code-ecbc8083d8a9?source=rss-93868c9b8bee------2)
-- [How I Cut Node.js Memory Usage by 40% Without Touching the Code](https://blog.stackademic.com/how-i-cut-node-js-memory-usage-by-40-without-touching-the-code-ecbc8083d8a9?source=rss-93868c9b8bee------2)
-- [3 Billion URLs. Limited Memory. How Would You Detect Duplicates?](https://blog.stackademic.com/3-billion-urls-limited-memory-how-would-you-detect-duplicates-8f59f486743b?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
