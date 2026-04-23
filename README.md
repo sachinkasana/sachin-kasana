@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Melting Your APIs: Smart Concurrency Control in Node.js with p-map &amp; Bottleneck](https://blog.stackademic.com/stop-melting-your-apis-smart-concurrency-control-in-node-js-with-p-map-bottleneck-07b27f0b8001?source=rss-93868c9b8bee------2)
+- [Stop Melting Your APIs: Smart Concurrency Control in Node.js with p-map &amp; Bottleneck](https://blog.stackademic.com/stop-melting-your-apis-smart-concurrency-control-in-node-js-with-p-map-bottleneck-07b27f0b8001?source=rss-93868c9b8bee------2)
 - [If You Understand These 5 AI System Concepts, You’re Ahead of Most Developers](https://blog.stackademic.com/if-you-understand-these-5-ai-system-concepts-youre-ahead-of-most-developers-d0b7fa76c353?source=rss-93868c9b8bee------2)
 - [If You Understand These 5 AI System Concepts, You’re Ahead of Most Developers](https://blog.stackademic.com/if-you-understand-these-5-ai-system-concepts-youre-ahead-of-most-developers-d0b7fa76c353?source=rss-93868c9b8bee------2)
 - [10 Node.js Tools I Use in Production &lpar;That Most Devs Ignore&rpar;](https://medium.com/front-end-world/10-node-js-tools-i-use-in-production-that-most-devs-ignore-35470cdd9f8b?source=rss-93868c9b8bee------2)
-- [10 Node.js Tools I Use in Production &lpar;That Most Devs Ignore&rpar;](https://medium.com/front-end-world/10-node-js-tools-i-use-in-production-that-most-devs-ignore-35470cdd9f8b?source=rss-93868c9b8bee------2)
-- [8 JavaScript AI Libraries That Make Your Side Projects Look Production-Ready](https://medium.com/front-end-world/8-javascript-ai-libraries-that-make-your-side-projects-look-production-ready-da2174304ce3?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
