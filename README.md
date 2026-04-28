@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Hitting Your Database Blindly](https://medium.com/beyond-localhost/stop-hitting-your-database-blindly-6ab1fb0eb415?source=rss-93868c9b8bee------2)
+- [Stop Hitting Your Database Blindly](https://medium.com/beyond-localhost/stop-hitting-your-database-blindly-6ab1fb0eb415?source=rss-93868c9b8bee------2)
 - [Build Your Own Cursor AI Locally &lpar;Ollama + VS Code + Open Models&rpar;](https://medium.com/beyond-localhost/build-your-own-cursor-ai-locally-ollama-vs-code-open-models-f0cfec99f42b?source=rss-93868c9b8bee------2)
 - [Build Your Own Cursor AI Locally &lpar;Ollama + VS Code + Open Models&rpar;](https://medium.com/beyond-localhost/build-your-own-cursor-ai-locally-ollama-vs-code-open-models-f0cfec99f42b?source=rss-93868c9b8bee------2)
 - [Stop Melting Your APIs: Smart Concurrency Control in Node.js with p-map &amp; Bottleneck](https://blog.stackademic.com/stop-melting-your-apis-smart-concurrency-control-in-node-js-with-p-map-bottleneck-07b27f0b8001?source=rss-93868c9b8bee------2)
-- [Stop Melting Your APIs: Smart Concurrency Control in Node.js with p-map &amp; Bottleneck](https://blog.stackademic.com/stop-melting-your-apis-smart-concurrency-control-in-node-js-with-p-map-bottleneck-07b27f0b8001?source=rss-93868c9b8bee------2)
-- [If You Understand These 5 AI System Concepts, You’re Ahead of Most Developers](https://blog.stackademic.com/if-you-understand-these-5-ai-system-concepts-youre-ahead-of-most-developers-d0b7fa76c353?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
