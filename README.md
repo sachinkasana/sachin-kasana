@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Turn Any Folder Into a Knowledge Graph: The Missing Piece in Your AI Stack](https://blog.stackademic.com/turn-any-folder-into-a-knowledge-graph-the-missing-piece-in-your-ai-stack-4924872ae4e0?source=rss-93868c9b8bee------2)
+- [Turn Any Folder Into a Knowledge Graph: The Missing Piece in Your AI Stack](https://blog.stackademic.com/turn-any-folder-into-a-knowledge-graph-the-missing-piece-in-your-ai-stack-4924872ae4e0?source=rss-93868c9b8bee------2)
 - [Stop Hitting Your Database Blindly](https://medium.com/beyond-localhost/stop-hitting-your-database-blindly-6ab1fb0eb415?source=rss-93868c9b8bee------2)
 - [Stop Hitting Your Database Blindly](https://medium.com/beyond-localhost/stop-hitting-your-database-blindly-6ab1fb0eb415?source=rss-93868c9b8bee------2)
 - [Build Your Own Cursor AI Locally &lpar;Ollama + VS Code + Open Models&rpar;](https://medium.com/beyond-localhost/build-your-own-cursor-ai-locally-ollama-vs-code-open-models-f0cfec99f42b?source=rss-93868c9b8bee------2)
-- [Build Your Own Cursor AI Locally &lpar;Ollama + VS Code + Open Models&rpar;](https://medium.com/beyond-localhost/build-your-own-cursor-ai-locally-ollama-vs-code-open-models-f0cfec99f42b?source=rss-93868c9b8bee------2)
-- [Stop Melting Your APIs: Smart Concurrency Control in Node.js with p-map &amp; Bottleneck](https://blog.stackademic.com/stop-melting-your-apis-smart-concurrency-control-in-node-js-with-p-map-bottleneck-07b27f0b8001?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
