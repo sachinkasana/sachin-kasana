@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [9 RAG Architectures Every AI Engineer Should Actually Understand &lpar;Not Just Memorize&rpar;](https://blog.stackademic.com/9-rag-architectures-every-ai-engineer-should-actually-understand-not-just-memorize-6c24d86a5144?source=rss-93868c9b8bee------2)
+- [9 RAG Architectures Every AI Engineer Should Actually Understand &lpar;Not Just Memorize&rpar;](https://blog.stackademic.com/9-rag-architectures-every-ai-engineer-should-actually-understand-not-just-memorize-6c24d86a5144?source=rss-93868c9b8bee------2)
 - [Turn Any Folder Into a Knowledge Graph: The Missing Piece in Your AI Stack](https://blog.stackademic.com/turn-any-folder-into-a-knowledge-graph-the-missing-piece-in-your-ai-stack-4924872ae4e0?source=rss-93868c9b8bee------2)
 - [Turn Any Folder Into a Knowledge Graph: The Missing Piece in Your AI Stack](https://blog.stackademic.com/turn-any-folder-into-a-knowledge-graph-the-missing-piece-in-your-ai-stack-4924872ae4e0?source=rss-93868c9b8bee------2)
 - [Stop Hitting Your Database Blindly](https://medium.com/beyond-localhost/stop-hitting-your-database-blindly-6ab1fb0eb415?source=rss-93868c9b8bee------2)
-- [Stop Hitting Your Database Blindly](https://medium.com/beyond-localhost/stop-hitting-your-database-blindly-6ab1fb0eb415?source=rss-93868c9b8bee------2)
-- [Build Your Own Cursor AI Locally &lpar;Ollama + VS Code + Open Models&rpar;](https://medium.com/beyond-localhost/build-your-own-cursor-ai-locally-ollama-vs-code-open-models-f0cfec99f42b?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
