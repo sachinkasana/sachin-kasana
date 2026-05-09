@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [What Actually Changes When Your App Grows From 1K to 1M Users](https://sachinkasana.medium.com/what-actually-changes-when-your-app-grows-from-1k-to-1m-users-55535b776a02?source=rss-93868c9b8bee------2)
+- [What Actually Changes When Your App Grows From 1K to 1M Users](https://sachinkasana.medium.com/what-actually-changes-when-your-app-grows-from-1k-to-1m-users-55535b776a02?source=rss-93868c9b8bee------2)
 - [Most Backend Developers Can Build APIs — But Very Few Understand What Breaks in Production](https://medium.com/beyond-localhost/most-backend-developers-can-build-apis-but-very-few-understand-what-breaks-in-production-f5b0e8c7f887?source=rss-93868c9b8bee------2)
 - [Most Backend Developers Can Build APIs — But Very Few Understand What Breaks in Production](https://medium.com/beyond-localhost/most-backend-developers-can-build-apis-but-very-few-understand-what-breaks-in-production-f5b0e8c7f887?source=rss-93868c9b8bee------2)
 - [9 RAG Architectures Every AI Engineer Should Actually Understand &lpar;Not Just Memorize&rpar;](https://blog.stackademic.com/9-rag-architectures-every-ai-engineer-should-actually-understand-not-just-memorize-6c24d86a5144?source=rss-93868c9b8bee------2)
-- [9 RAG Architectures Every AI Engineer Should Actually Understand &lpar;Not Just Memorize&rpar;](https://blog.stackademic.com/9-rag-architectures-every-ai-engineer-should-actually-understand-not-just-memorize-6c24d86a5144?source=rss-93868c9b8bee------2)
-- [Turn Any Folder Into a Knowledge Graph: The Missing Piece in Your AI Stack](https://medium.com/front-end-world/turn-any-folder-into-a-knowledge-graph-the-missing-piece-in-your-ai-stack-4924872ae4e0?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
