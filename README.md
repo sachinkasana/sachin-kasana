@@ -123,7 +123,7 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 - [How Web Components Reduced Frontend Duplication Across Teams](https://medium.com/front-end-world/how-web-components-reduced-frontend-duplication-across-teams-474a65a711d7?source=rss-93868c9b8bee------2)
 - [What Actually Happens Inside Forward Proxy vs Reverse Proxy in Production Systems](https://medium.com/beyond-localhost/what-actually-happens-inside-forward-proxy-vs-reverse-proxy-in-production-systems-2e28930ad1bb?source=rss-93868c9b8bee------2)
 - [What Actually Happens Inside Forward Proxy vs Reverse Proxy in Production Systems](https://medium.com/beyond-localhost/what-actually-happens-inside-forward-proxy-vs-reverse-proxy-in-production-systems-2e28930ad1bb?source=rss-93868c9b8bee------2)
-- [What Actually Changes When Your App Grows From 1K to 1M Users](https://blog.stackademic.com/what-actually-changes-when-your-app-grows-from-1k-to-1m-users-55535b776a02?source=rss-93868c9b8bee------2)
+- [What Actually Changes When Your App Grows From 1K to 1M Users](https://medium.com/codetodeploy/what-actually-changes-when-your-app-grows-from-1k-to-1m-users-55535b776a02?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
