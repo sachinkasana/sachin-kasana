@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside a Real React Memory Leak: Debugging Detached DOM Trees and Stale Closures](https://sachinkasana.medium.com/inside-a-real-react-memory-leak-debugging-detached-dom-trees-and-stale-closures-81d5dce0c7ac?source=rss-93868c9b8bee------2)
+- [Inside a Real React Memory Leak: Debugging Detached DOM Trees and Stale Closures](https://sachinkasana.medium.com/inside-a-real-react-memory-leak-debugging-detached-dom-trees-and-stale-closures-81d5dce0c7ac?source=rss-93868c9b8bee------2)
 - [Build Your Own MCP Server From Scratch](https://medium.com/front-end-world/build-your-own-mcp-server-from-scratch-22a5554ac4db?source=rss-93868c9b8bee------2)
 - [Build Your Own MCP Server From Scratch](https://medium.com/front-end-world/build-your-own-mcp-server-from-scratch-22a5554ac4db?source=rss-93868c9b8bee------2)
 - [How Web Components Reduced Frontend Duplication Across Teams](https://medium.com/front-end-world/how-web-components-reduced-frontend-duplication-across-teams-474a65a711d7?source=rss-93868c9b8bee------2)
-- [How Web Components Reduced Frontend Duplication Across Teams](https://medium.com/front-end-world/how-web-components-reduced-frontend-duplication-across-teams-474a65a711d7?source=rss-93868c9b8bee------2)
-- [What Actually Happens Inside Forward Proxy vs Reverse Proxy in Production Systems](https://medium.com/beyond-localhost/what-actually-happens-inside-forward-proxy-vs-reverse-proxy-in-production-systems-2e28930ad1bb?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
