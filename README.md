@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [How E-Commerce Companies Detect Fake Reviews Using AI](https://sachinkasana.medium.com/how-e-commerce-companies-detect-fake-reviews-using-ai-88a20a35bcb6?source=rss-93868c9b8bee------2)
+- [How E-Commerce Companies Detect Fake Reviews Using AI](https://sachinkasana.medium.com/how-e-commerce-companies-detect-fake-reviews-using-ai-88a20a35bcb6?source=rss-93868c9b8bee------2)
 - [Microfrontends in Production: What Nobody Tells You](https://medium.com/front-end-world/microfrontends-in-production-what-nobody-tells-you-50cda50fb6a7?source=rss-93868c9b8bee------2)
 - [Microfrontends in Production: What Nobody Tells You](https://medium.com/front-end-world/microfrontends-in-production-what-nobody-tells-you-50cda50fb6a7?source=rss-93868c9b8bee------2)
 - [Inside a Real React Memory Leak: Debugging Detached DOM Trees and Stale Closures](https://medium.com/front-end-world/inside-a-real-react-memory-leak-debugging-detached-dom-trees-and-stale-closures-81d5dce0c7ac?source=rss-93868c9b8bee------2)
-- [Inside a Real React Memory Leak: Debugging Detached DOM Trees and Stale Closures](https://medium.com/front-end-world/inside-a-real-react-memory-leak-debugging-detached-dom-trees-and-stale-closures-81d5dce0c7ac?source=rss-93868c9b8bee------2)
-- [Build Your Own MCP Server From Scratch](https://medium.com/front-end-world/build-your-own-mcp-server-from-scratch-22a5554ac4db?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
