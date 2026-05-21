@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [How Spotify Built an AI Coding Agent That Merged 1,500+ PRs](https://medium.com/codetodeploy/how-spotify-built-an-ai-coding-agent-that-merged-1-500-prs-6e913b9b4ca5?source=rss-93868c9b8bee------2)
+- [How Spotify Built an AI Coding Agent That Merged 1,500+ PRs](https://medium.com/codetodeploy/how-spotify-built-an-ai-coding-agent-that-merged-1-500-prs-6e913b9b4ca5?source=rss-93868c9b8bee------2)
 - [Stop Installing These npm Packages. JavaScript Already Has Native APIs.](https://medium.com/front-end-world/stop-installing-these-npm-packages-javascript-already-has-native-apis-8e44618e8156?source=rss-93868c9b8bee------2)
 - [Stop Installing These npm Packages. JavaScript Already Has Native APIs.](https://medium.com/front-end-world/stop-installing-these-npm-packages-javascript-already-has-native-apis-8e44618e8156?source=rss-93868c9b8bee------2)
 - [How E-Commerce Companies Detect Fake Reviews Using AI](https://medium.com/beyond-localhost/how-e-commerce-companies-detect-fake-reviews-using-ai-88a20a35bcb6?source=rss-93868c9b8bee------2)
-- [How E-Commerce Companies Detect Fake Reviews Using AI](https://medium.com/beyond-localhost/how-e-commerce-companies-detect-fake-reviews-using-ai-88a20a35bcb6?source=rss-93868c9b8bee------2)
-- [Microfrontends in Production: What Nobody Tells You](https://medium.com/front-end-world/microfrontends-in-production-what-nobody-tells-you-50cda50fb6a7?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
