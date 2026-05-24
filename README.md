@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [9 Agentic Patterns Every Developer Should Know Before Building with LLMs](https://sachinkasana.medium.com/9-agentic-patterns-every-developer-should-know-before-building-with-llms-e8d46eb68853?source=rss-93868c9b8bee------2)
+- [9 Agentic Patterns Every Developer Should Know Before Building with LLMs](https://sachinkasana.medium.com/9-agentic-patterns-every-developer-should-know-before-building-with-llms-e8d46eb68853?source=rss-93868c9b8bee------2)
 - [How Vector Databases Actually Work Behind the Scenes](https://ai.plainenglish.io/how-vector-databases-actually-work-behind-the-scenes-1d99aa167af7?source=rss-93868c9b8bee------2)
 - [How Vector Databases Actually Work Behind the Scenes](https://ai.plainenglish.io/how-vector-databases-actually-work-behind-the-scenes-1d99aa167af7?source=rss-93868c9b8bee------2)
 - [Building a Knowledge Graph From Scratch for AI Applications](https://medium.com/codetodeploy/building-a-knowledge-graph-from-scratch-for-ai-applications-bc18f5cd05e8?source=rss-93868c9b8bee------2)
-- [Building a Knowledge Graph From Scratch for AI Applications](https://medium.com/codetodeploy/building-a-knowledge-graph-from-scratch-for-ai-applications-bc18f5cd05e8?source=rss-93868c9b8bee------2)
-- [How Spotify Built an AI Coding Agent That Merged 1,500+ PRs](https://medium.com/codetodeploy/how-spotify-built-an-ai-coding-agent-that-merged-1-500-prs-6e913b9b4ca5?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
