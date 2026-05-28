@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [How We Reduced Our Node.js Cold Starts by 90%](https://medium.com/front-end-world/how-we-reduced-our-node-js-cold-starts-by-90-145c73db7d9c?source=rss-93868c9b8bee------2)
+- [How We Reduced Our Node.js Cold Starts by 90%](https://medium.com/front-end-world/how-we-reduced-our-node-js-cold-starts-by-90-145c73db7d9c?source=rss-93868c9b8bee------2)
 - [Vectorless RAG: Building Retrieval Systems Without Embeddings or Vector Databases](https://medium.com/codetodeploy/vectorless-rag-building-retrieval-systems-without-embeddings-or-vector-databases-dda9aab4a016?source=rss-93868c9b8bee------2)
 - [Vectorless RAG: Building Retrieval Systems Without Embeddings or Vector Databases](https://medium.com/codetodeploy/vectorless-rag-building-retrieval-systems-without-embeddings-or-vector-databases-dda9aab4a016?source=rss-93868c9b8bee------2)
 - [How to Design a RAG Pipeline for 10 Million Documents &lpar;Without Hallucinations&rpar;](https://medium.com/codetodeploy/how-to-design-a-rag-pipeline-for-10-million-documents-without-hallucinations-957ee1da4b26?source=rss-93868c9b8bee------2)
-- [How to Design a RAG Pipeline for 10 Million Documents &lpar;Without Hallucinations&rpar;](https://medium.com/codetodeploy/how-to-design-a-rag-pipeline-for-10-million-documents-without-hallucinations-957ee1da4b26?source=rss-93868c9b8bee------2)
-- [9 Agentic Patterns Every Developer Should Know Before Building with LLMs](https://medium.com/beyond-localhost/9-agentic-patterns-every-developer-should-know-before-building-with-llms-e8d46eb68853?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
