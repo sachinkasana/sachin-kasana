@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [10 LangChain &amp; LangGraph Concepts Every AI Engineer Should Know](https://medium.com/codetodeploy/10-langchain-langgraph-concepts-every-ai-engineer-should-know-f661560f213c?source=rss-93868c9b8bee------2)
+- [10 LangChain &amp; LangGraph Concepts Every AI Engineer Should Know](https://medium.com/codetodeploy/10-langchain-langgraph-concepts-every-ai-engineer-should-know-f661560f213c?source=rss-93868c9b8bee------2)
 - [How a Software Engineer Should Actually Learn AI Engineering — In the Right Sequence](https://medium.com/codetodeploy/how-a-software-engineer-should-actually-learn-ai-engineering-in-the-right-sequence-d8007f46353e?source=rss-93868c9b8bee------2)
 - [How a Software Engineer Should Actually Learn AI Engineering — In the Right Sequence](https://medium.com/codetodeploy/how-a-software-engineer-should-actually-learn-ai-engineering-in-the-right-sequence-d8007f46353e?source=rss-93868c9b8bee------2)
 - [How We Reduced Our Node.js Cold Starts by 90%](https://medium.com/front-end-world/how-we-reduced-our-node-js-cold-starts-by-90-145c73db7d9c?source=rss-93868c9b8bee------2)
-- [How We Reduced Our Node.js Cold Starts by 90%](https://medium.com/front-end-world/how-we-reduced-our-node-js-cold-starts-by-90-145c73db7d9c?source=rss-93868c9b8bee------2)
-- [Vectorless RAG: Building Retrieval Systems Without Embeddings or Vector Databases](https://medium.com/codetodeploy/vectorless-rag-building-retrieval-systems-without-embeddings-or-vector-databases-dda9aab4a016?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
