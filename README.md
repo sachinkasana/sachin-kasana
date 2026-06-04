@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [8 LLM Cost Optimization Techniques Every AI Engineer Should Know](https://medium.com/codetodeploy/8-llm-cost-optimization-techniques-every-ai-engineer-should-know-a45a1cb1d838?source=rss-93868c9b8bee------2)
+- [8 LLM Cost Optimization Techniques Every AI Engineer Should Know](https://medium.com/codetodeploy/8-llm-cost-optimization-techniques-every-ai-engineer-should-know-a45a1cb1d838?source=rss-93868c9b8bee------2)
 - [10 Frontend Details Users Notice Instantly &lpar;But Most Developers Ignore&rpar;](https://medium.com/front-end-world/10-frontend-details-users-notice-instantly-but-most-developers-ignore-cedf72555755?source=rss-93868c9b8bee------2)
 - [10 Frontend Details Users Notice Instantly &lpar;But Most Developers Ignore&rpar;](https://medium.com/front-end-world/10-frontend-details-users-notice-instantly-but-most-developers-ignore-cedf72555755?source=rss-93868c9b8bee------2)
 - [10 LangChain &amp; LangGraph Concepts Every AI Engineer Should Know](https://medium.com/codetodeploy/10-langchain-langgraph-concepts-every-ai-engineer-should-know-f661560f213c?source=rss-93868c9b8bee------2)
-- [10 LangChain &amp; LangGraph Concepts Every AI Engineer Should Know](https://medium.com/codetodeploy/10-langchain-langgraph-concepts-every-ai-engineer-should-know-f661560f213c?source=rss-93868c9b8bee------2)
-- [How a Software Engineer Should Actually Learn AI Engineering — In the Right Sequence](https://medium.com/codetodeploy/how-a-software-engineer-should-actually-learn-ai-engineering-in-the-right-sequence-d8007f46353e?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
