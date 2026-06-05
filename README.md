@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Self-Correcting AI Agents with MCP](https://medium.com/codetodeploy/building-self-correcting-ai-agents-with-mcp-4daed41df85f?source=rss-93868c9b8bee------2)
+- [Building Self-Correcting AI Agents with MCP](https://medium.com/codetodeploy/building-self-correcting-ai-agents-with-mcp-4daed41df85f?source=rss-93868c9b8bee------2)
 - [8 LLM Cost Optimization Techniques Every AI Engineer Should Know](https://medium.com/codetodeploy/8-llm-cost-optimization-techniques-every-ai-engineer-should-know-a45a1cb1d838?source=rss-93868c9b8bee------2)
 - [8 LLM Cost Optimization Techniques Every AI Engineer Should Know](https://medium.com/codetodeploy/8-llm-cost-optimization-techniques-every-ai-engineer-should-know-a45a1cb1d838?source=rss-93868c9b8bee------2)
 - [10 Frontend Details Users Notice Instantly &lpar;But Most Developers Ignore&rpar;](https://medium.com/front-end-world/10-frontend-details-users-notice-instantly-but-most-developers-ignore-cedf72555755?source=rss-93868c9b8bee------2)
-- [10 Frontend Details Users Notice Instantly &lpar;But Most Developers Ignore&rpar;](https://medium.com/front-end-world/10-frontend-details-users-notice-instantly-but-most-developers-ignore-cedf72555755?source=rss-93868c9b8bee------2)
-- [10 LangChain &amp; LangGraph Concepts Every AI Engineer Should Know](https://medium.com/codetodeploy/10-langchain-langgraph-concepts-every-ai-engineer-should-know-f661560f213c?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
