@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [How We Turned a 500K-Line Codebase Into an AI Knowledge Graph](https://ai.plainenglish.io/how-we-turned-a-500k-line-codebase-into-an-ai-knowledge-graph-0f6e69fb11e6?source=rss-93868c9b8bee------2)
+- [How We Turned a 500K-Line Codebase Into an AI Knowledge Graph](https://ai.plainenglish.io/how-we-turned-a-500k-line-codebase-into-an-ai-knowledge-graph-0f6e69fb11e6?source=rss-93868c9b8bee------2)
 - [The Backend Developer’s Guide to Agentic AI Systems with MCP Tools](https://medium.com/codetodeploy/the-backend-developers-guide-to-agentic-ai-systems-with-mcp-tools-d17d6ffa74d2?source=rss-93868c9b8bee------2)
 - [The Backend Developer’s Guide to Agentic AI Systems with MCP Tools](https://medium.com/codetodeploy/the-backend-developers-guide-to-agentic-ai-systems-with-mcp-tools-d17d6ffa74d2?source=rss-93868c9b8bee------2)
 - [Building Self-Correcting AI Agents with MCP](https://medium.com/codetodeploy/building-self-correcting-ai-agents-with-mcp-4daed41df85f?source=rss-93868c9b8bee------2)
-- [Building Self-Correcting AI Agents with MCP](https://medium.com/codetodeploy/building-self-correcting-ai-agents-with-mcp-4daed41df85f?source=rss-93868c9b8bee------2)
-- [8 LLM Cost Optimization Techniques Every AI Engineer Should Know](https://medium.com/codetodeploy/8-llm-cost-optimization-techniques-every-ai-engineer-should-know-a45a1cb1d838?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
