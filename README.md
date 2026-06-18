@@ -119,8 +119,8 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
-- [Our AI Wasn’t Hallucinating.](https://blog.stackademic.com/our-ai-wasnt-hallucinating-61e6b313a2ba?source=rss-93868c9b8bee------2)
-- [Our AI Wasn’t Hallucinating.](https://blog.stackademic.com/our-ai-wasnt-hallucinating-61e6b313a2ba?source=rss-93868c9b8bee------2)
+- [Our AI Wasn’t Hallucinating.](https://sachinkasana.medium.com/our-ai-wasnt-hallucinating-61e6b313a2ba?source=rss-93868c9b8bee------2)
+- [Our AI Wasn’t Hallucinating.](https://sachinkasana.medium.com/our-ai-wasnt-hallucinating-61e6b313a2ba?source=rss-93868c9b8bee------2)
 - [The Browser Is Becoming an Operating System. Most Developers Haven’t Realized It Yet](https://medium.com/front-end-world/the-browser-is-becoming-an-operating-system-most-developers-havent-realized-it-yet-57defa8968ee?source=rss-93868c9b8bee------2)
 - [The Browser Is Becoming an Operating System. Most Developers Haven’t Realized It Yet](https://medium.com/front-end-world/the-browser-is-becoming-an-operating-system-most-developers-havent-realized-it-yet-57defa8968ee?source=rss-93868c9b8bee------2)
 - [How We Turned a 500K-Line Codebase Into an AI Knowledge Graph](https://ai.plainenglish.io/how-we-turned-a-500k-line-codebase-into-an-ai-knowledge-graph-0f6e69fb11e6?source=rss-93868c9b8bee------2)
