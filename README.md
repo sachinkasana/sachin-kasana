@@ -123,7 +123,7 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 - [Stop Returning JSON From Your MCP Server. Start Returning UI.](https://blog.stackademic.com/stop-returning-json-from-your-mcp-server-start-returning-ui-679b8ccdd4cb?source=rss-93868c9b8bee------2)
 - [Developing Your Personal Agentic System Step by Step](https://medium.com/codetodeploy/developing-your-personal-agentic-system-step-by-step-7331d3cae744?source=rss-93868c9b8bee------2)
 - [Developing Your Personal Agentic System Step by Step](https://medium.com/codetodeploy/developing-your-personal-agentic-system-step-by-step-7331d3cae744?source=rss-93868c9b8bee------2)
-- [Our AI Wasn’t Hallucinating.](https://sachinkasana.medium.com/our-ai-wasnt-hallucinating-61e6b313a2ba?source=rss-93868c9b8bee------2)
+- [Our AI Wasn’t Hallucinating.](https://medium.com/beyond-localhost/our-ai-wasnt-hallucinating-61e6b313a2ba?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
