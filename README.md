@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Backend System Design Patterns Every Software Engineer Should Know](https://medium.com/codetodeploy/5-backend-system-design-patterns-every-software-engineer-should-know-1abed5ca7a36?source=rss-93868c9b8bee------2)
+- [5 Backend System Design Patterns Every Software Engineer Should Know](https://medium.com/codetodeploy/5-backend-system-design-patterns-every-software-engineer-should-know-1abed5ca7a36?source=rss-93868c9b8bee------2)
 - [Inside CodeGraph: How AI Coding Agents Understand Million-Line Codebases Without Reading Every File](https://ai.plainenglish.io/inside-codegraph-how-ai-coding-agents-understand-million-line-codebases-without-reading-every-file-66b069215c00?source=rss-93868c9b8bee------2)
 - [Inside CodeGraph: How AI Coding Agents Understand Million-Line Codebases Without Reading Every File](https://ai.plainenglish.io/inside-codegraph-how-ai-coding-agents-understand-million-line-codebases-without-reading-every-file-66b069215c00?source=rss-93868c9b8bee------2)
 - [10 AI Agent Security Tests Every AI Engineer Should Run Before Production &lpar;With Real Attack…](https://medium.com/codetodeploy/10-ai-agent-security-tests-every-ai-engineer-should-run-before-production-with-real-attack-5799398edca0?source=rss-93868c9b8bee------2)
-- [10 AI Agent Security Tests Every AI Engineer Should Run Before Production &lpar;With Real Attack…](https://medium.com/codetodeploy/10-ai-agent-security-tests-every-ai-engineer-should-run-before-production-with-real-attack-5799398edca0?source=rss-93868c9b8bee------2)
-- [10 Context Engineering Techniques Every AI Engineer Should Know](https://ai.plainenglish.io/10-context-engineering-techniques-every-ai-engineer-should-know-b54b486a6921?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
