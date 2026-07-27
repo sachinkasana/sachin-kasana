@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of AI Agents Isn’t Better Prompts. It’s Graph Engineering.](https://medium.com/beyond-localhost/the-future-of-ai-agents-isnt-better-prompts-it-s-graph-engineering-7fa21e51cc1a?source=rss-93868c9b8bee------2)
+- [The Future of AI Agents Isn’t Better Prompts. It’s Graph Engineering.](https://medium.com/beyond-localhost/the-future-of-ai-agents-isnt-better-prompts-it-s-graph-engineering-7fa21e51cc1a?source=rss-93868c9b8bee------2)
 - [How Intelligent Query Planning Can Reduce LLM Costs in Production AI Agents](https://sachinkasana.medium.com/how-intelligent-query-planning-can-reduce-llm-costs-in-production-ai-agents-61cc29259094?source=rss-93868c9b8bee------2)
 - [How Intelligent Query Planning Can Reduce LLM Costs in Production AI Agents](https://sachinkasana.medium.com/how-intelligent-query-planning-can-reduce-llm-costs-in-production-ai-agents-61cc29259094?source=rss-93868c9b8bee------2)
 - [5 Backend System Design Patterns Every Software Engineer Should Know](https://medium.com/codetodeploy/5-backend-system-design-patterns-every-software-engineer-should-know-1abed5ca7a36?source=rss-93868c9b8bee------2)
-- [5 Backend System Design Patterns Every Software Engineer Should Know](https://medium.com/codetodeploy/5-backend-system-design-patterns-every-software-engineer-should-know-1abed5ca7a36?source=rss-93868c9b8bee------2)
-- [Inside CodeGraph: How AI Coding Agents Understand Million-Line Codebases Without Reading Every File](https://ai.plainenglish.io/inside-codegraph-how-ai-coding-agents-understand-million-line-codebases-without-reading-every-file-66b069215c00?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
