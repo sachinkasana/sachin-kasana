@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [10 AI Infrastructure Patterns Every AI Engineer Should Know](https://ai.plainenglish.io/10-ai-infrastructure-patterns-every-ai-engineer-should-know-338bc6fce144?source=rss-93868c9b8bee------2)
+- [10 AI Infrastructure Patterns Every AI Engineer Should Know](https://ai.plainenglish.io/10-ai-infrastructure-patterns-every-ai-engineer-should-know-338bc6fce144?source=rss-93868c9b8bee------2)
 - [Building AI Agents? Learn These 7 Architecture Patterns First](https://blog.stackademic.com/building-ai-agents-learn-these-7-architecture-patterns-first-621bf46047d0?source=rss-93868c9b8bee------2)
 - [Building AI Agents? Learn These 7 Architecture Patterns First](https://blog.stackademic.com/building-ai-agents-learn-these-7-architecture-patterns-first-621bf46047d0?source=rss-93868c9b8bee------2)
 - [The Future of AI Agents Isn’t Better Prompts. It’s Graph Engineering.](https://medium.com/beyond-localhost/the-future-of-ai-agents-isnt-better-prompts-it-s-graph-engineering-7fa21e51cc1a?source=rss-93868c9b8bee------2)
-- [The Future of AI Agents Isn’t Better Prompts. It’s Graph Engineering.](https://medium.com/beyond-localhost/the-future-of-ai-agents-isnt-better-prompts-it-s-graph-engineering-7fa21e51cc1a?source=rss-93868c9b8bee------2)
-- [How Intelligent Query Planning Can Reduce LLM Costs in Production AI Agents](https://blog.stackademic.com/how-intelligent-query-planning-can-reduce-llm-costs-in-production-ai-agents-61cc29259094?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
