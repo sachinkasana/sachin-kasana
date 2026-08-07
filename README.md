@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Wasting LLM Tokens: 5 AI Caching Patterns Every AI Engineer Should Know](https://sachinkasana.medium.com/stop-wasting-llm-tokens-5-ai-caching-patterns-every-ai-engineer-should-know-f42394a3d747?source=rss-93868c9b8bee------2)
+- [Stop Wasting LLM Tokens: 5 AI Caching Patterns Every AI Engineer Should Know](https://sachinkasana.medium.com/stop-wasting-llm-tokens-5-ai-caching-patterns-every-ai-engineer-should-know-f42394a3d747?source=rss-93868c9b8bee------2)
+- [How AI Agents Actually Work: 8 Internal Steps Every AI Engineer Should Know](https://medium.com/beyond-localhost/how-ai-agents-actually-work-8-internal-steps-every-ai-engineer-should-know-bb4c65a4b729?source=rss-93868c9b8bee------2)
+- [How AI Agents Actually Work: 8 Internal Steps Every AI Engineer Should Know](https://medium.com/beyond-localhost/how-ai-agents-actually-work-8-internal-steps-every-ai-engineer-should-know-bb4c65a4b729?source=rss-93868c9b8bee------2)
 - [MCP vs APIs vs Function Calling vs A2A: Stop Confusing These 4 AI Technologies](https://blog.stackademic.com/mcp-vs-apis-vs-function-calling-vs-a2a-stop-confusing-these-4-ai-technologies-b7a88df4ef6e?source=rss-93868c9b8bee------2)
-- [MCP vs APIs vs Function Calling vs A2A: Stop Confusing These 4 AI Technologies](https://blog.stackademic.com/mcp-vs-apis-vs-function-calling-vs-a2a-stop-confusing-these-4-ai-technologies-b7a88df4ef6e?source=rss-93868c9b8bee------2)
-- [10 AI Infrastructure Patterns Every AI Engineer Should Know](https://ai.plainenglish.io/10-ai-infrastructure-patterns-every-ai-engineer-should-know-338bc6fce144?source=rss-93868c9b8bee------2)
-- [10 AI Infrastructure Patterns Every AI Engineer Should Know](https://ai.plainenglish.io/10-ai-infrastructure-patterns-every-ai-engineer-should-know-338bc6fce144?source=rss-93868c9b8bee------2)
-- [Building AI Agents? Learn These 7 Architecture Patterns First](https://blog.stackademic.com/building-ai-agents-learn-these-7-architecture-patterns-first-621bf46047d0?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
