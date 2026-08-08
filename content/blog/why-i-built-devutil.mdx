@@ -1,0 +1,51 @@
+---
+title: "Why I Built DevUtil: Privacy-First Developer Tools in the Browser"
+date: "2026-08-08"
+tags: ["Developer Tools", "Privacy", "Next.js", "Product"]
+excerpt: "Most online formatters upload your data. DevUtil keeps 22 everyday utilities fully client-side — here’s why that matters and how to use the suite."
+---
+
+I kept opening “free online tools” for the same jobs: format JSON, beautify SQL, decode a JWT, convert YAML, build a cron expression. Most of them worked. Many also sent whatever I pasted to a server.
+
+That is a bad default for production payloads, tokens, and customer data.
+
+So I built [DevUtil.dev](https://www.devutil.dev/) — a privacy-first toolbox where processing stays in the browser.
+
+## What DevUtil covers today
+
+The suite is past “a couple of utilities.” It currently includes **22 tools**, plus short guides:
+
+- Formatters: [JSON](https://www.devutil.dev/json-formatter), [SQL](https://www.devutil.dev/sql-formatter), [XML](https://www.devutil.dev/xml-formatter)
+- Converters: [YAML ↔ JSON](https://www.devutil.dev/yaml-json-converter), [JSON ↔ CSV](https://www.devutil.dev/json-csv-converter), [case converter](https://www.devutil.dev/case-converter), [number bases](https://www.devutil.dev/number-base-converter)
+- Generators / helpers: [cron builder](https://www.devutil.dev/cron-generator), [UUID v4 & v7](https://www.devutil.dev/uuid-generator), password / QR / hashes
+- Everyday debugging: [regex tester](https://www.devutil.dev/regex-tester), [JWT decoder](https://www.devutil.dev/jwt-decoder), [diff checker](https://www.devutil.dev/diff-checker), [Markdown preview](https://www.devutil.dev/markdown-preview)
+
+See the full changelog on [What’s New](https://www.devutil.dev/whats-new).
+
+## Why client-side tools matter
+
+1. **Secrets stay local** — JWT payloads, SQL filters, and API dumps never need to leave your machine for formatting.
+2. **Speed** — no round trip for the core action.
+3. **Offline-friendly** — once the page loads, many tools keep working without calling an API.
+4. **Trust is visible** — you can inspect network traffic and confirm nothing sensitive is uploaded.
+
+Analytics on DevUtil is aggregate only (page views / button events). Tool inputs are not the product data model.
+
+## A practical workflow
+
+A day I actually have:
+
+1. Pretty-print an API response in the [JSON Formatter](https://www.devutil.dev/json-formatter)
+2. Convert a Kubernetes snippet with [YAML ↔ JSON](https://www.devutil.dev/yaml-json-converter)
+3. Clean a query for review in the [SQL Formatter](https://www.devutil.dev/sql-formatter)
+4. Schedule a job with the [Cron Generator](https://www.devutil.dev/cron-generator)
+
+If you want the “why” behind formats, the [guides](https://www.devutil.dev/guides) cover JSON formatting, SQL formatting, cron examples, and YAML vs JSON.
+
+## What I’m optimizing for next
+
+- Stronger search pages for high-intent tools
+- Better internal linking from my [portfolio](https://sachinkasana-dev.vercel.app/) and writing
+- More guides that answer real questions, not fluff
+
+If you try DevUtil, start here: [https://www.devutil.dev/](https://www.devutil.dev/). Feedback on missing tools is welcome.

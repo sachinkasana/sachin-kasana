@@ -24,9 +24,9 @@ export const metadata = {
     type: 'website',
     images: [
       {
-        url: 'https://sachinkasana-dev.vercel.app/og-default.png',
+        url: 'https://sachinkasana-dev.vercel.app/og-default.jpg',
         width: 1200,
-        height: 630,
+        height: 800,
         alt: 'Sachin Kasana Blog',
       },
     ],
@@ -36,7 +36,7 @@ export const metadata = {
     title: 'Blog | Sachin Kasana',
     description:
       'Technical writing on performance, architecture, developer tools, and practical engineering tradeoffs.',
-    images: ['https://sachinkasana-dev.vercel.app/og-default.png'],
+    images: ['https://sachinkasana-dev.vercel.app/og-default.jpg'],
   },
 };
 

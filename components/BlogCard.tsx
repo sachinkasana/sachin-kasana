@@ -17,7 +17,7 @@ export default function BlogCard({
   excerpt,
   thumbnail,
 }: BlogCardProps) {
-  const [imgSrc, setImgSrc] = useState(thumbnail || '/og-default.png');
+  const [imgSrc, setImgSrc] = useState(thumbnail || '/og-default.jpg');
   const cleanExcerpt = excerpt?.replace(/\s+\.\.\.$/, '').trim() || '';
 
   return (
@@ -32,7 +32,7 @@ export default function BlogCard({
           src={imgSrc}
           alt={title}
           className="h-full w-full object-cover"
-          onError={() => setImgSrc('/og-default.png')}
+          onError={() => setImgSrc('/og-default.jpg')}
         />
       </div>
 

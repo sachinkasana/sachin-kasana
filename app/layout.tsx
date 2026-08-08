@@ -50,9 +50,9 @@ export const metadata = {
     type: 'website',
     images: [
       {
-        url: 'https://sachinkasana-dev.vercel.app/og-default.png',
+        url: 'https://sachinkasana-dev.vercel.app/og-default.jpg',
         width: 1200,
-        height: 630,
+        height: 800,
         alt: 'Sachin Kasana',
       },
     ],
@@ -62,7 +62,7 @@ export const metadata = {
     title: 'Sachin Kasana – Principal Engineer',
     description:
       'Creator of DevUtil.dev. Explore developer tools, blogs, and architecture work.',
-    images: ['https://sachinkasana-dev.vercel.app/og-default.png'],
+    images: ['https://sachinkasana-dev.vercel.app/og-default.jpg'],
   },
 };
 

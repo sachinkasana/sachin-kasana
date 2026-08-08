@@ -12,10 +12,12 @@ export type BlogMeta = {
 
 export function getBlogPosts(): BlogMeta[] {
   const blogDir = path.join(process.cwd(), 'content/blog');
-  const files = fs.readdirSync(blogDir);
+  const files = fs
+    .readdirSync(blogDir)
+    .filter((fileName) => fileName.endsWith('.mdx'));
 
   const posts = files.map((fileName) => {
-    const slug = fileName.replace('.mdx', '');
+    const slug = fileName.replace(/\.mdx$/, '');
     const filePath = path.join(blogDir, fileName);
     const fileContent = fs.readFileSync(filePath, 'utf-8');
     const { data } = matter(fileContent);
@@ -25,7 +27,7 @@ export function getBlogPosts(): BlogMeta[] {
       title: data.title,
       date: data.date,
       excerpt: data.excerpt,
-      tags: data.tags,
+      tags: data.tags || [],
     };
   });
 

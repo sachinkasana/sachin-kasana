@@ -26,7 +26,9 @@ function getPostBySlug(slug: string) {
 }
 
 export async function generateStaticParams() {
-  const files = fs.readdirSync('content/blog');
+  const files = fs
+    .readdirSync('content/blog')
+    .filter((file) => file.endsWith('.mdx'));
   return files.map((file) => ({ slug: file.replace(/\.mdx$/, '') }));
 }
 
@@ -56,11 +58,20 @@ export async function generateMetadata({
       description: post.data.excerpt || 'Technical writing by Sachin Kasana.',
       url: `https://sachinkasana-dev.vercel.app/blog/${slug}`,
       type: 'article',
+      images: [
+        {
+          url: 'https://sachinkasana-dev.vercel.app/og-default.jpg',
+          width: 1200,
+          height: 800,
+          alt: post.data.title,
+        },
+      ],
     },
     twitter: {
       card: 'summary_large_image',
       title: post.data.title,
       description: post.data.excerpt || 'Technical writing by Sachin Kasana.',
+      images: ['https://sachinkasana-dev.vercel.app/og-default.jpg'],
     },
   };
 }
