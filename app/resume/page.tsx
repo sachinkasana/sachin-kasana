@@ -1,97 +1,111 @@
 import Script from 'next/script';
 
+const featuredTools = [
+  { label: 'JSON Prettifier', href: '/tools/json-prettifier' },
+  { label: 'Regex Tester', href: '/tools/regex-tester' },
+  { label: 'DevUtil.dev', href: 'https://www.devutil.dev/' },
+  {
+    label: 'JS Event Loop Visualizer',
+    href: 'https://js-event-loop-visualizer-one.vercel.app/',
+  },
+  {
+    label: 'Node.js Event Loop Visualizer',
+    href: 'https://nodejs-event-loop-visualizer-sachin.vercel.app/',
+  },
+  { label: 'DSA Visualizer', href: 'https://dsa-visualizer-sk.vercel.app/' },
+];
+
 export const metadata = {
-  title: "Sachin Kasana – Resume | Principal Engineer & Software Architect",
+  title: 'Sachin Kasana – Resume | Principal Engineer & Software Architect',
   description:
-    "Explore Sachin Kasana’s professional resume – 12+ years of experience in Node.js, React, AWS, and system design. Currently Principal Engineer at Wood Mackenzie.",
+    'Explore Sachin Kasana’s professional resume – 12+ years of experience in Node.js, React, AWS, and system design. Currently Principal Engineer at Wood Mackenzie.',
   keywords: [
-    "Sachin Kasana resume",
-    "Principal Engineer",
-    "Software Architect",
-    "Fullstack Developer",
-    "Node.js Resume",
-    "React Resume",
-    "AWS Resume",
+    'Sachin Kasana resume',
+    'Principal Engineer',
+    'Software Architect',
+    'Fullstack Developer',
+    'Node.js Resume',
+    'React Resume',
+    'AWS Resume',
   ],
   openGraph: {
-    title: "Sachin Kasana – Resume",
+    title: 'Sachin Kasana – Resume',
     description:
-      "Professional resume of Sachin Kasana, Principal Engineer & Software Architect with 12+ years of experience.",
-    url: "https://sachinkasana-dev.vercel.app/resume",
-    siteName: "Sachin Kasana",
-    type: "profile",
+      'Professional resume of Sachin Kasana, Principal Engineer & Software Architect with 12+ years of experience.',
+    url: 'https://sachinkasana-dev.vercel.app/resume',
+    siteName: 'Sachin Kasana',
+    type: 'profile',
+  },
+  alternates: {
+    canonical: 'https://sachinkasana-dev.vercel.app/resume',
   },
 };
 
-  
-  export default function ResumePage() {
-    return (
-      <>
+export default function ResumePage() {
+  return (
+    <>
       <Script id="resume-schema" type="application/ld+json">
-  {JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "CreativeWork",
-    name: "Resume of Sachin Kasana",
-    description: "Principal Engineer with 12+ years of experience in Node.js, React, AWS, and scalable system design.",
-    url: "https://sachinkasana-dev.vercel.app/resume",
-    author: {
-      "@type": "Person",
-      name: "Sachin Kasana"
-    },
-    dateModified: "2024-12-01"
-  })}
-</Script>
-<main className="max-w-6xl mx-auto px-6 py-20">
-        <h1 className="text-3xl md:text-4xl font-bold text-center mb-6">My Resume</h1>
-        <div className="mb-10 text-center">
-          <h2 className="text-2xl font-semibold mb-3">Developer Tools</h2>
-          <p className="text-gray-600 dark:text-gray-400 mb-4">
-            I build interactive learning tools to help developers move faster and learn by doing.
-          </p>
-          <div className="flex flex-wrap justify-center gap-4 text-sm">
-            <a className="text-blue-600 hover:underline" href="/tools/json-prettifier">
-              JSON Prettifier
-            </a>
-            <a className="text-blue-600 hover:underline" href="/tools/regex-tester">
-              Regex Tester
-            </a>
-            <a className="text-blue-600 hover:underline" href="https://www.devutil.dev/">
-              DevUtil.dev
-            </a>
-            <a className="text-blue-600 hover:underline" href="https://js-event-loop-visualizer-one.vercel.app/">
-              JS Event Loop Visualizer
-            </a>
-            <a className="text-blue-600 hover:underline" href="https://nodejs-event-loop-visualizer-sachin.vercel.app/">
-              Node.js Event Loop Visualizer
-            </a>
-            <a className="text-blue-600 hover:underline" href="https://dsa-visualizer-sk.vercel.app/">
-              DSA Visualizer
-            </a>
+        {JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'CreativeWork',
+          name: 'Resume of Sachin Kasana',
+          description:
+            'Principal Engineer with 12+ years of experience in Node.js, React, AWS, and scalable system design.',
+          url: 'https://sachinkasana-dev.vercel.app/resume',
+          author: {
+            '@type': 'Person',
+            name: 'Sachin Kasana',
+          },
+          dateModified: '2024-12-01',
+        })}
+      </Script>
+
+      <main className="section-shell pt-32 md:pt-36">
+        <div className="grid gap-8 lg:grid-cols-[0.9fr_1.1fr] lg:items-start">
+          <div>
+            <span className="section-kicker">Resume</span>
+            <h1 className="section-title">Experience across platform engineering, product delivery, and tooling.</h1>
+            <p className="section-copy">
+              A concise view of my background, technical scope, and recent
+              focus. The PDF is embedded below for quick review and direct
+              download.
+            </p>
+
+            <div className="mt-8">
+              <a href="/sachin-kasana-resume.pdf" download className="btn-primary">
+                Download Resume
+              </a>
+            </div>
+
+            <div className="mt-8">
+              <p className="eyebrow">Selected Tooling</p>
+              <div className="mt-4 flex flex-wrap gap-3">
+                {featuredTools.map((tool) => (
+                  <a
+                    key={tool.label}
+                    href={tool.href}
+                    className="pill"
+                    target={tool.href.startsWith('http') ? '_blank' : undefined}
+                    rel={tool.href.startsWith('http') ? 'noopener noreferrer' : undefined}
+                  >
+                    {tool.label}
+                  </a>
+                ))}
+              </div>
+            </div>
+          </div>
+
+          <div className="overflow-hidden rounded-3xl border border-slate-200/70 bg-white shadow-[var(--shadow-card)] dark:border-slate-800 dark:bg-slate-950">
+            <iframe
+              src="/sachin-kasana-resume.pdf"
+              title="Sachin Kasana Resume"
+              width="100%"
+              height="980"
+              className="w-full bg-white"
+            />
           </div>
         </div>
-  
-        <div className="rounded-md overflow-hidden border shadow-md">
-          <iframe
-            src="/sachin-kasana-resume.pdf"
-            title="Sachin Kasana Resume"
-            width="100%"
-            height="1000"
-            className="w-full"
-          />
-        </div>
-  
-        <div className="mt-6 text-center">
-          <a
-            href="/sachin-kasana-resume.pdf"
-            download
-            className="inline-block bg-blue-600 text-white px-6 py-2 rounded-md hover:bg-blue-700 transition"
-          >
-            📥 Download Resume
-          </a>
-        </div>
       </main>
-      </>
-      
-    );
-  }
-  
+    </>
+  );
+}

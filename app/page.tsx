@@ -7,7 +7,7 @@ import Projects from '@/components/Projects';
 
 export default function Home() {
   return (
-    <main>
+    <main className="page-shell">
       <Hero />
       <About />
       <Projects />

@@ -85,7 +85,7 @@ export default function RegexTester() {
           value={pattern}
           onChange={(e) => setPattern(e.target.value)}
           placeholder="e.g. \\d+"
-          className="w-full p-3 border border-gray-300 dark:border-gray-700 rounded-md bg-white dark:bg-gray-900 text-black dark:text-white font-mono"
+          className="input-surface font-mono text-black dark:text-white"
         />
       </div>
 
@@ -98,7 +98,7 @@ export default function RegexTester() {
           onChange={(e) => setFlags(e.target.value)}
           placeholder="e.g. gi"
           maxLength={3}
-          className="w-24 p-3 border border-gray-300 dark:border-gray-700 rounded-md bg-white dark:bg-gray-900 text-black dark:text-white font-mono"
+          className="input-surface w-28 font-mono text-black dark:text-white"
         />
       </div>
 
@@ -110,20 +110,20 @@ export default function RegexTester() {
           value={testString}
           onChange={(e) => setTestString(e.target.value)}
           placeholder="Paste or type your test string here..."
-          className="w-full p-3 border border-gray-300 dark:border-gray-700 rounded-md bg-white dark:bg-gray-900 text-black dark:text-white font-mono"
+          className="input-surface min-h-[180px] font-mono text-black dark:text-white"
         />
       </div>
 
       <button
         onClick={testRegex}
-        className="px-6 py-3 bg-blue-600 text-white rounded hover:bg-blue-700 transition-all"
+        className="btn-primary"
       >
         Test Regex
       </button>
 
       {/* Error */}
       {error && (
-        <p className="text-red-600 font-semibold bg-red-100 dark:bg-red-900 p-3 rounded">
+        <p className="rounded-2xl bg-red-100 p-3 font-semibold text-red-600 dark:bg-red-900">
           {error}
         </p>
       )}
@@ -144,7 +144,7 @@ export default function RegexTester() {
       {testString && !error && (
         <div className="mt-6">
           <h3 className="font-semibold text-lg mb-2">Preview with Highlight:</h3>
-          <div className="whitespace-pre-wrap font-mono p-4 rounded bg-gray-100 dark:bg-gray-800 border dark:border-gray-700">
+          <div className="whitespace-pre-wrap rounded-2xl border border-slate-200 bg-slate-50 p-4 font-mono dark:border-slate-700 dark:bg-slate-950">
             {getHighlightedText()}
           </div>
         </div>

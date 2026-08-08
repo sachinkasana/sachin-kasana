@@ -1,75 +1,101 @@
 'use client';
 
-import { FaLinkedin, FaEnvelope, FaGithub } from 'react-icons/fa';
+import { FaEnvelope, FaGithub, FaLinkedin } from 'react-icons/fa';
+
+const links = [
+  {
+    href: 'mailto:sachinksana@gmail.com',
+    label: 'Email',
+    icon: <FaEnvelope />,
+  },
+  {
+    href: 'https://www.linkedin.com/in/sachin-kasana/',
+    label: 'LinkedIn',
+    icon: <FaLinkedin />,
+  },
+  {
+    href: 'https://github.com/sachinkasana',
+    label: 'GitHub',
+    icon: <FaGithub />,
+  },
+];
 
 export default function Contact() {
   return (
-    <section id="contact" className="max-w-4xl mx-auto px-6 py-20 text-center">
-      <h2 className="text-3xl md:text-4xl font-bold mb-6">Let’s Connect</h2>
+    <section id="contact" className="section-shell">
+      <div className="mx-auto max-w-5xl">
+        <div className="text-center">
+          <h2 className="text-3xl font-bold md:text-4xl">Let&apos;s Connect</h2>
+          <p className="mx-auto mt-4 max-w-3xl text-lg leading-8 text-slate-600 dark:text-slate-300">
+            If you are building something technical and ambitious, reach out.
+            I am most interested in high-leverage engineering work, thoughtful
+            teams, and products that need both systems depth and execution.
+          </p>
 
-      <p className="text-lg text-gray-700 dark:text-gray-300 mb-10">
-        Want to collaborate, talk tech, or just say hello? I’m always open to new opportunities and conversations.
-      </p>
+          <div className="mt-8 flex flex-wrap justify-center gap-3">
+            {links.map((link) => (
+              <a
+                key={link.label}
+                href={link.href}
+                target={link.href.startsWith('http') ? '_blank' : undefined}
+                rel={link.href.startsWith('http') ? 'noopener noreferrer' : undefined}
+                className="pill gap-2"
+              >
+                <span className="text-base">{link.icon}</span>
+                {link.label}
+              </a>
+            ))}
+          </div>
+        </div>
 
-      {/* Contact Form (Formspree-ready) */}
-      <form
-        action="https://formspree.io/f/xvgkjogo"
-        method="POST"
-        className="grid gap-5 text-left max-w-xl mx-auto mb-12"
-      >
-        <input
-          type="text"
-          name="name"
-          required
-          placeholder="Your Name"
-          className="px-4 py-3 border border-gray-300 dark:border-gray-700 rounded-md bg-white dark:bg-gray-800 text-black dark:text-white"
-        />
-        <input
-          type="email"
-          name="email"
-          required
-          placeholder="Your Email"
-          className="px-4 py-3 border border-gray-300 dark:border-gray-700 rounded-md bg-white dark:bg-gray-800 text-black dark:text-white"
-        />
-        <textarea
-          name="message"
-          required
-          rows={5}
-          placeholder="Your Message"
-          className="px-4 py-3 border border-gray-300 dark:border-gray-700 rounded-md bg-white dark:bg-gray-800 text-black dark:text-white"
-        ></textarea>
-        <button
-          type="submit"
-          className="px-6 py-3 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-all"
+        <form
+          action="https://formspree.io/f/xvgkjogo"
+          method="POST"
+          className="mx-auto mt-12 grid max-w-3xl gap-4 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-950"
         >
-          Send Message
-        </button>
-      </form>
-
-      {/* Social Links */}
-      <div className="flex justify-center gap-6 text-2xl">
-        <a
-          href="mailto:sachinksana@gmail.com"
-          className="text-gray-600 dark:text-gray-300 hover:text-blue-500 transition"
-        >
-          <FaEnvelope />
-        </a>
-        <a
-          href="https://www.linkedin.com/in/sachin-kasana/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-gray-600 dark:text-gray-300 hover:text-blue-500 transition"
-        >
-          <FaLinkedin />
-        </a>
-        <a
-          href="https://github.com/sachinkasana"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-gray-600 dark:text-gray-300 hover:text-blue-500 transition"
-        >
-          <FaGithub />
-        </a>
+          <div>
+            <label htmlFor="name" className="mb-2 block text-sm font-medium">
+              Name
+            </label>
+            <input
+              id="name"
+              type="text"
+              name="name"
+              required
+              placeholder="Your name"
+              className="input-surface text-black dark:text-white"
+            />
+          </div>
+          <div>
+            <label htmlFor="email" className="mb-2 block text-sm font-medium">
+              Email
+            </label>
+            <input
+              id="email"
+              type="email"
+              name="email"
+              required
+              placeholder="you@company.com"
+              className="input-surface text-black dark:text-white"
+            />
+          </div>
+          <div>
+            <label htmlFor="message" className="mb-2 block text-sm font-medium">
+              Message
+            </label>
+            <textarea
+              id="message"
+              name="message"
+              required
+              rows={6}
+              placeholder="Tell me what you are building or what kind of help you need."
+              className="input-surface text-black dark:text-white"
+            />
+          </div>
+          <button type="submit" className="btn-primary mt-2 w-full sm:w-fit">
+            Send Message
+          </button>
+        </form>
       </div>
     </section>
   );

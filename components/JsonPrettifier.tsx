@@ -72,19 +72,19 @@ export default function JsonPrettifier() {
         value={input}
         onChange={(e) => setInput(e.target.value)}
         placeholder="Paste raw JSON here..."
-        className="w-full p-4 text-sm bg-gray-100 dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded-md font-mono"
+        className="input-surface min-h-[240px] font-mono text-sm text-black dark:text-white"
       />
       <div className="flex gap-4 flex-wrap">
         <button
           onClick={formatJson}
-          className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
+          className="btn-primary"
         >
           Format JSON
         </button>
         {output && (
           <button
             onClick={downloadJson}
-            className="px-4 py-2 bg-green-600 text-white rounded hover:bg-green-700"
+            className="inline-flex items-center justify-center rounded-full bg-emerald-600 px-5 py-3 text-sm font-semibold text-white hover:bg-emerald-700"
           >
             Download .json
           </button>
@@ -92,19 +92,19 @@ export default function JsonPrettifier() {
       </div>
 
       {error && (
-        <p className="text-red-600 font-semibold bg-red-100 dark:bg-red-900 p-3 rounded">
+        <p className="rounded-2xl bg-red-100 p-3 font-semibold text-red-600 dark:bg-red-900">
           {error}
         </p>
       )}
 
       {output && (
         <div className="relative mt-6">
-          <pre className="bg-gray-100 dark:bg-gray-900 text-sm p-4 rounded-md overflow-auto font-mono border dark:border-gray-700">
+          <pre className="overflow-auto rounded-2xl border border-slate-200 bg-slate-50 p-4 font-mono text-sm dark:border-slate-700 dark:bg-slate-950">
             {output}
           </pre>
           <button
             onClick={copyToClipboard}
-            className="absolute top-2 right-2 text-xs px-3 py-1 bg-blue-600 text-white rounded hover:bg-blue-700"
+            className="absolute right-3 top-3 rounded-full bg-blue-600 px-3 py-1 text-xs font-semibold text-white hover:bg-blue-700"
           >
             Copy
           </button>

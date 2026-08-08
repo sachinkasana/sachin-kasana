@@ -38,34 +38,41 @@ export default function ToolLanding({
   };
 
   return (
-    <main className="max-w-4xl mx-auto px-6 py-20">
-      <div className="text-center mb-8">
-        <p className="text-sm uppercase tracking-[0.3em] text-gray-500 dark:text-gray-400">
-          Developer Tool
-        </p>
-        <h1 className="text-3xl md:text-4xl font-bold mt-3">{title}</h1>
-        <p className="text-gray-600 dark:text-gray-400 mt-4">{description}</p>
-      </div>
+    <main className="section-shell pt-32 md:pt-36">
+      <div className="grid gap-10 lg:grid-cols-[0.95fr_1.05fr] lg:items-start">
+        <div>
+          <p className="section-kicker">Developer Tool</p>
+          <h1 className="section-title">{title}</h1>
+          <p className="section-copy">{description}</p>
+          <div className="mt-8">
+            <a
+              href={href}
+              onClick={handleClick}
+              target="_blank"
+              rel="noreferrer"
+              className="btn-primary"
+            >
+              Visit Tool
+              <span aria-hidden="true">↗</span>
+            </a>
+          </div>
+        </div>
 
-      <div className="rounded-xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-900 p-6 shadow-sm">
-        <h2 className="text-lg font-semibold mb-4">Why it helps</h2>
-        <ul className="list-disc ml-6 text-gray-700 dark:text-gray-300 space-y-2">
-          {highlights.map((item) => (
-            <li key={item}>{item}</li>
-          ))}
-        </ul>
-
-        <div className="mt-8 flex items-center justify-center">
-          <a
-            href={href}
-            onClick={handleClick}
-            target="_blank"
-            rel="noreferrer"
-            className="inline-flex items-center gap-2 bg-blue-600 text-white px-6 py-3 rounded-md hover:bg-blue-700 transition"
-          >
-            Visit Tool
-            <span aria-hidden="true">↗</span>
-          </a>
+        <div className="surface-card">
+          <h2 className="text-lg font-semibold">Why it helps</h2>
+          <div className="mt-5 space-y-3">
+            {highlights.map((item) => (
+              <div
+                key={item}
+                className="flex items-start gap-3 rounded-2xl border border-slate-200/70 bg-white/55 px-4 py-3 dark:border-slate-800 dark:bg-slate-900/55"
+              >
+                <span className="mt-1 h-2.5 w-2.5 rounded-full bg-blue-500" />
+                <p className="text-sm leading-6 text-slate-700 dark:text-slate-300">
+                  {item}
+                </p>
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     </main>
