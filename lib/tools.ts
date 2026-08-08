@@ -2,6 +2,8 @@ export type Tool = {
   title: string;
   description: string;
   href: string;
+  /** Prefer this for featured outbound products like DevUtil */
+  externalHref?: string;
   tags: string[];
   icon: string;
   featured?: boolean;
@@ -11,9 +13,10 @@ export const tools: Tool[] = [
   {
     title: 'DevUtil.dev',
     description:
-      'A suite of fast, privacy-first developer utilities with multiple tools.',
+      '22 free, privacy-first browser tools + guides: JSON/SQL/XML formatters, YAML↔JSON, JSON↔CSV, cron builder, Markdown preview, UUID v4 & v7, and more.',
     href: '/tools/devutil',
-    tags: ['Utilities', 'Multi-tool', 'Privacy-first'],
+    externalHref: 'https://www.devutil.dev/',
+    tags: ['Utilities', '22 tools', 'Privacy-first'],
     icon: '⚡',
     featured: true,
   },

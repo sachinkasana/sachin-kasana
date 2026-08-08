@@ -5,64 +5,64 @@ import Image from 'next/image';
 
 export default function Hero() {
   return (
-    <section className="min-h-screen flex flex-col justify-center items-center text-center px-6 pt-32 relative">
-      {/* Avatar or Illustration */}
-      <motion.div
-        initial={{ opacity: 0, y: -20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.8 }}
-        className="mb-6"
-      >
-        <Image
-  src="/assets/sachin-profile.jpeg"
-  alt="Sachin's Photo"
-  width={240}
-  height={240}
-  className="rounded-full border-4 border-blue-600 shadow-lg object-cover"
-/>
-      </motion.div>
-
-      {/* Heading */}
-      <motion.h1
-        initial={{ opacity: 0, y: 10 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.3, duration: 0.6 }}
-        className="text-4xl md:text-6xl font-extrabold mb-4"
-      >
-        Hi, I’m <span className="text-blue-600 dark:text-blue-400">Sachin</span>
-      </motion.h1>
-
-      {/* Tagline */}
-      <motion.p
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ delay: 0.6, duration: 0.6 }}
-        className="text-lg md:text-xl text-gray-600 dark:text-gray-300 max-w-xl mb-6"
-      >
-        Principal Engineer & Software Architect — I craft scalable, fast, and clean
-        solutions using Node.js, React, and AI.
-      </motion.p>
-
-      {/* CTA Buttons */}
-      <motion.div
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ delay: 0.9, duration: 0.6 }}
-        className="flex gap-4"
-      >
-        <a
-          href="#projects"
-          className="px-6 py-3 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-all"
+    <section className="section-shell min-h-screen pt-32 md:pt-36">
+      <div className="mx-auto flex max-w-5xl flex-col items-center justify-center text-center">
+        <motion.div
+          initial={{ opacity: 0, y: -20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.7 }}
+          className="mb-8"
         >
-          View My Work
-        </a>
-        <a
-          href="/resume"
-          className="px-6 py-3 border border-blue-600 text-blue-600 rounded-xl hover:bg-blue-50 transition-all"
+          <Image
+            src="/assets/sachin-profile.jpeg"
+            alt="Sachin Kasana portrait"
+            width={320}
+            height={320}
+            className="h-56 w-56 rounded-full border-4 border-blue-600 object-cover shadow-xl md:h-72 md:w-72"
+          />
+        </motion.div>
+
+        <motion.h1
+          initial={{ opacity: 0, y: 10 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.2, duration: 0.6 }}
+          className="text-5xl font-extrabold tracking-tight md:text-7xl"
         >
-          Resume
-        </a>
-      </motion.div>
+          Hi, I&apos;m <span className="text-blue-600 dark:text-blue-400">Sachin</span>
+        </motion.h1>
+
+        <motion.p
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ delay: 0.4, duration: 0.6 }}
+          className="mt-6 max-w-3xl text-xl leading-9 text-slate-600 dark:text-slate-300 md:text-2xl"
+        >
+          Principal Engineer &amp; Software Architect — I craft scalable, fast,
+          and clean solutions using Node.js, React, and AI.
+        </motion.p>
+
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ delay: 0.6, duration: 0.6 }}
+          className="mt-10 flex flex-wrap items-center justify-center gap-4"
+        >
+          <a href="#projects" className="btn-primary min-w-[220px]">
+            View My Work
+          </a>
+          <a
+            href="https://www.devutil.dev/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn-secondary min-w-[160px]"
+          >
+            Open DevUtil
+          </a>
+          <a href="/resume" className="btn-secondary min-w-[160px]">
+            Resume
+          </a>
+        </motion.div>
+      </div>
     </section>
   );
 }

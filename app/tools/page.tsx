@@ -1,5 +1,6 @@
 import { tools } from '@/lib/tools';
 import ToolsGrid from '@/components/ToolsGrid';
+import Script from 'next/script';
 
 export const metadata = {
   title: 'Developer Tools | KasanaCodes',
@@ -37,51 +38,71 @@ export const metadata = {
       'Interactive developer tools and learning visualizers built by Sachin Kasana.',
     images: ['https://sachinkasana-dev.vercel.app/og-tools.svg'],
   },
+  alternates: {
+    canonical: 'https://sachinkasana-dev.vercel.app/tools',
+  },
 };
 
 export default function ToolsPage() {
   const visualizerCount = tools.filter((tool) => tool.tags.includes('Visualizer')).length;
 
   return (
-    <main className="max-w-6xl mx-auto px-6 py-20">
-      <div className="text-center mb-12">
-        <h1 className="text-3xl md:text-4xl font-bold">Developer Tools</h1>
-        <p className="text-gray-600 dark:text-gray-400 mt-3">
-          Interactive tools and visualizers built to help developers learn faster.
-        </p>
-        <p className="text-gray-600 dark:text-gray-400 mt-4">
-          Start with{' '}
-          <a className="text-blue-600 hover:underline" href="/tools/devutil">
-            DevUtil.dev
-          </a>{' '}
-          for daily utilities, then explore the{' '}
-          <a className="text-blue-600 hover:underline" href="/tools/js-event-loop-visualizer">
-            JS Event Loop Visualizer
-          </a>{' '}
-          and the{' '}
-          <a className="text-blue-600 hover:underline" href="/tools/json-prettifier">
-            JSON Prettifier
-          </a>
-          .
-        </p>
-      </div>
+    <>
+      <Script id="tools-itemlist-schema" type="application/ld+json">
+        {JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'ItemList',
+          name: 'Developer Tools by Sachin Kasana',
+          itemListElement: tools.map((tool, index) => ({
+            '@type': 'ListItem',
+            position: index + 1,
+            name: tool.title,
+            url: `https://sachinkasana-dev.vercel.app${tool.href}`,
+          })),
+        })}
+      </Script>
+      <main className="section-shell pt-32 md:pt-36">
+        <div className="grid gap-8 lg:grid-cols-[1.1fr_0.9fr] lg:items-end">
+          <div>
+            <span className="section-kicker">Developer Tools</span>
+            <h1 className="section-title">
+              Searchable tools, visual explainers, and small utilities with real use.
+            </h1>
+            <p className="section-copy">
+              Start with{' '}
+              <a
+                href="https://www.devutil.dev/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-semibold text-blue-600 hover:underline dark:text-blue-400"
+              >
+                DevUtil.dev
+              </a>{' '}
+              (22 privacy-first browser tools), then explore event-loop visualizers, JSON
+              Prettifier, and Regex Tester hosted here.
+            </p>
+          </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-12 text-center">
-        <div className="border border-gray-200 dark:border-gray-700 rounded-xl p-4 bg-white dark:bg-gray-900">
-          <p className="text-2xl font-semibold">{tools.length}</p>
-          <p className="text-sm text-gray-500 dark:text-gray-400">Tools live</p>
+          <div className="grid gap-4 sm:grid-cols-3 lg:grid-cols-1">
+            <div className="surface-card">
+              <p className="metric-value">{tools.length}</p>
+              <p className="mt-2 text-sm text-slate-600 dark:text-slate-300">Portfolio tools</p>
+            </div>
+            <div className="surface-card">
+              <p className="metric-value">22</p>
+              <p className="mt-2 text-sm text-slate-600 dark:text-slate-300">Tools on DevUtil</p>
+            </div>
+            <div className="surface-card">
+              <p className="metric-value">{visualizerCount}</p>
+              <p className="mt-2 text-sm text-slate-600 dark:text-slate-300">Interactive visualizers</p>
+            </div>
+          </div>
         </div>
-        <div className="border border-gray-200 dark:border-gray-700 rounded-xl p-4 bg-white dark:bg-gray-900">
-          <p className="text-2xl font-semibold">{visualizerCount}</p>
-          <p className="text-sm text-gray-500 dark:text-gray-400">Visualizers</p>
-        </div>
-        <div className="border border-gray-200 dark:border-gray-700 rounded-xl p-4 bg-white dark:bg-gray-900">
-          <p className="text-2xl font-semibold">Free</p>
-          <p className="text-sm text-gray-500 dark:text-gray-400">No paywall</p>
-        </div>
-      </div>
 
-      <ToolsGrid tools={tools} referrer="tools_index" />
-    </main>
+        <div className="mt-10">
+          <ToolsGrid tools={tools} referrer="tools_index" />
+        </div>
+      </main>
+    </>
   );
 }
