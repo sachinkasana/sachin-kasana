@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Production-Ready Semantic Cache in Node.js &lpar;Redis + OpenAI&rpar;](https://sachinkasana.medium.com/build-a-production-ready-semantic-cache-in-node-js-redis-openai-10ce9d0fef8c?source=rss-93868c9b8bee------2)
+- [Build a Production-Ready Semantic Cache in Node.js &lpar;Redis + OpenAI&rpar;](https://sachinkasana.medium.com/build-a-production-ready-semantic-cache-in-node-js-redis-openai-10ce9d0fef8c?source=rss-93868c9b8bee------2)
 - [Stop Wasting LLM Tokens: 5 AI Caching Patterns Every AI Engineer Should Know](https://blog.gopenai.com/stop-wasting-llm-tokens-5-ai-caching-patterns-every-ai-engineer-should-know-f42394a3d747?source=rss-93868c9b8bee------2)
 - [Stop Wasting LLM Tokens: 5 AI Caching Patterns Every AI Engineer Should Know](https://blog.gopenai.com/stop-wasting-llm-tokens-5-ai-caching-patterns-every-ai-engineer-should-know-f42394a3d747?source=rss-93868c9b8bee------2)
 - [How AI Agents Actually Work: 8 Internal Steps Every AI Engineer Should Know](https://medium.com/beyond-localhost/how-ai-agents-actually-work-8-internal-steps-every-ai-engineer-should-know-bb4c65a4b729?source=rss-93868c9b8bee------2)
-- [How AI Agents Actually Work: 8 Internal Steps Every AI Engineer Should Know](https://medium.com/beyond-localhost/how-ai-agents-actually-work-8-internal-steps-every-ai-engineer-should-know-bb4c65a4b729?source=rss-93868c9b8bee------2)
-- [MCP vs APIs vs Function Calling vs A2A: Stop Confusing These 4 AI Technologies](https://medium.com/beyond-localhost/mcp-vs-apis-vs-function-calling-vs-a2a-stop-confusing-these-4-ai-technologies-b7a88df4ef6e?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
