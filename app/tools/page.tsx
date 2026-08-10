@@ -3,7 +3,7 @@ import ToolsGrid from '@/components/ToolsGrid';
 import Script from 'next/script';
 
 export const metadata = {
-  title: 'Developer Tools | KasanaCodes',
+  title: 'Developer Tools',
   description:
     'Explore interactive developer tools and learning visualizers built by Sachin Kasana.',
   keywords: [
@@ -16,24 +16,24 @@ export const metadata = {
     'DevUtil',
   ],
   openGraph: {
-    title: 'Developer Tools | KasanaCodes',
+    title: 'Developer Tools | Sachin Kasana',
     description:
       'Interactive developer tools and learning visualizers built by Sachin Kasana.',
     url: 'https://sachinkasana-dev.vercel.app/tools',
-    siteName: 'KasanaCodes',
+    siteName: 'Sachin Kasana',
     type: 'website',
     images: [
       {
         url: 'https://sachinkasana-dev.vercel.app/og-tools.svg',
         width: 1200,
         height: 630,
-        alt: 'Developer Tools - KasanaCodes',
+        alt: 'Developer Tools - Sachin Kasana',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Developer Tools | KasanaCodes',
+    title: 'Developer Tools | Sachin Kasana',
     description:
       'Interactive developer tools and learning visualizers built by Sachin Kasana.',
     images: ['https://sachinkasana-dev.vercel.app/og-tools.svg'],

@@ -2,7 +2,7 @@ import Script from 'next/script';
 import ToolLanding from '@/components/ToolLanding';
 
 export const metadata = {
-  title: 'JS Event Loop Visualizer | Interactive Learning Tool',
+  title: 'JS Event Loop Visualizer',
   description:
     'Interactive JavaScript event loop visualizer for call stack, Web APIs, and queues.',
   keywords: [
@@ -13,24 +13,24 @@ export const metadata = {
     'JS Visualizer',
   ],
   openGraph: {
-    title: 'JS Event Loop Visualizer | KasanaCodes',
+    title: 'JS Event Loop Visualizer | Sachin Kasana',
     description:
       'Explore the call stack, Web APIs, microtasks, and task queue visually.',
     url: 'https://sachinkasana-dev.vercel.app/tools/js-event-loop-visualizer',
-    siteName: 'KasanaCodes',
+    siteName: 'Sachin Kasana',
     type: 'website',
     images: [
       {
         url: 'https://sachinkasana-dev.vercel.app/og-js-event-loop.svg',
         width: 1200,
         height: 630,
-        alt: 'JS Event Loop Visualizer - KasanaCodes',
+        alt: 'JS Event Loop Visualizer',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'JS Event Loop Visualizer | KasanaCodes',
+    title: 'JS Event Loop Visualizer | Sachin Kasana',
     description:
       'Interactive walkthrough of call stack, Web APIs, microtasks, and task queue.',
     images: ['https://sachinkasana-dev.vercel.app/og-js-event-loop.svg'],

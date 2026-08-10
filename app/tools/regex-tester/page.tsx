@@ -2,7 +2,7 @@ import RegexTester from '@/components/RegexTester';
 import Script from 'next/script';
 
 export const metadata = {
-  title: 'Regex Tester | Try Regex Online with Highlight',
+  title: 'Regex Tester',
   description:
     'Use Regex Tester to test regular expressions live with visual highlights. Great for developers validating patterns instantly.',
   keywords: [

@@ -42,12 +42,12 @@ export async function generateMetadata({
 
   if (!post) {
     return {
-      title: 'Blog Post Not Found | Sachin Kasana',
+      title: 'Blog Post Not Found',
     };
   }
 
   return {
-    title: `${post.data.title} | Sachin Kasana`,
+    title: post.data.title,
     description: post.data.excerpt || 'Technical writing by Sachin Kasana.',
     keywords: post.data.tags || [],
     alternates: {

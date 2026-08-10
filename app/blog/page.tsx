@@ -3,7 +3,7 @@ import Script from 'next/script';
 import { getBlogPosts } from '@/lib/getBlogPosts';
 
 export const metadata = {
-  title: 'Blog | Sachin Kasana',
+  title: 'Blog',
   description:
     'Technical writing by Sachin Kasana on performance, architecture, developer tools, and practical engineering tradeoffs.',
   keywords: [

@@ -2,7 +2,7 @@ import JsonPrettifier from '@/components/JsonPrettifier';
 import Script from 'next/script';
 
 export const metadata = {
-  title: 'JSON Prettifier | Format & Beautify JSON Instantly',
+  title: 'JSON Prettifier',
   description: 'Cleanly format raw JSON with copy/download options. Built by Sachin Kasana.',
   keywords: ['JSON Prettifier', 'Online JSON Formatter', 'Developer Tool'],
   alternates: {

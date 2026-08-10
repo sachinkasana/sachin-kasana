@@ -5,6 +5,12 @@ import DeveloperTools from '@/components/DeveloperTools';
 import Hero from '@/components/Hero';
 import Projects from '@/components/Projects';
 
+export const metadata = {
+  alternates: {
+    canonical: 'https://sachinkasana-dev.vercel.app/',
+  },
+};
+
 export default function Home() {
   return (
     <main className="page-shell">

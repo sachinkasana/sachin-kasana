@@ -37,9 +37,6 @@ export const metadata = {
     'AI',
   ],
   metadataBase: new URL('https://sachinkasana-dev.vercel.app'),
-  alternates: {
-    canonical: 'https://sachinkasana-dev.vercel.app/',
-  },
   openGraph: {
     title: 'Sachin Kasana – Principal Engineer',
     description:

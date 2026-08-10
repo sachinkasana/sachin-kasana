@@ -2,7 +2,7 @@ import Script from 'next/script';
 import ToolLanding from '@/components/ToolLanding';
 
 export const metadata = {
-  title: 'DSA Visualizer | Data Structures & Algorithms',
+  title: 'DSA Visualizer',
   description:
     'Data structures and algorithms visualizer for core CS concepts.',
   keywords: [
@@ -13,23 +13,23 @@ export const metadata = {
     'Graph Visualizer',
   ],
   openGraph: {
-    title: 'DSA Visualizer | KasanaCodes',
+    title: 'DSA Visualizer | Sachin Kasana',
     description: 'Visualize data structures and algorithms with interactive demos.',
     url: 'https://sachinkasana-dev.vercel.app/tools/dsa-visualizer',
-    siteName: 'KasanaCodes',
+    siteName: 'Sachin Kasana',
     type: 'website',
     images: [
       {
         url: 'https://sachinkasana-dev.vercel.app/og-dsa-visualizer.svg',
         width: 1200,
         height: 630,
-        alt: 'DSA Visualizer - KasanaCodes',
+        alt: 'DSA Visualizer',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'DSA Visualizer | KasanaCodes',
+    title: 'DSA Visualizer | Sachin Kasana',
     description: 'Visualize data structures and algorithms with interactive demos.',
     images: ['https://sachinkasana-dev.vercel.app/og-dsa-visualizer.svg'],
   },

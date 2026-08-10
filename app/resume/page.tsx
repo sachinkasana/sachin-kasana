@@ -16,7 +16,7 @@ const featuredTools = [
 ];
 
 export const metadata = {
-  title: 'Sachin Kasana – Resume | Principal Engineer & Software Architect',
+  title: 'Resume',
   description:
     'Explore Sachin Kasana’s professional resume – 12+ years of experience in Node.js, React, AWS, and system design. Currently Principal Engineer at Wood Mackenzie.',
   keywords: [

@@ -2,7 +2,7 @@ import Script from 'next/script';
 import ToolLanding from '@/components/ToolLanding';
 
 export const metadata = {
-  title: 'Node.js Event Loop Visualizer | Interactive Learning Tool',
+  title: 'Node.js Event Loop Visualizer',
   description:
     'Node.js event loop visualizer for phases, timers, and async behavior.',
   keywords: [
@@ -13,24 +13,24 @@ export const metadata = {
     'Event Loop Phases',
   ],
   openGraph: {
-    title: 'Node.js Event Loop Visualizer | KasanaCodes',
+    title: 'Node.js Event Loop Visualizer | Sachin Kasana',
     description:
       'Learn Node.js event loop phases and async behavior visually.',
     url: 'https://sachinkasana-dev.vercel.app/tools/node-event-loop-visualizer',
-    siteName: 'KasanaCodes',
+    siteName: 'Sachin Kasana',
     type: 'website',
     images: [
       {
         url: 'https://sachinkasana-dev.vercel.app/og-node-event-loop.svg',
         width: 1200,
         height: 630,
-        alt: 'Node.js Event Loop Visualizer - KasanaCodes',
+        alt: 'Node.js Event Loop Visualizer',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Node.js Event Loop Visualizer | KasanaCodes',
+    title: 'Node.js Event Loop Visualizer | Sachin Kasana',
     description:
       'Explore Node.js event loop phases and async behavior with a visual tool.',
     images: ['https://sachinkasana-dev.vercel.app/og-node-event-loop.svg'],

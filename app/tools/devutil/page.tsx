@@ -14,7 +14,7 @@ const popularTools = [
 ];
 
 export const metadata = {
-  title: 'DevUtil.dev | Privacy-First Developer Utilities',
+  title: 'DevUtil.dev',
   description:
     'DevUtil.dev is a free suite of 22 privacy-first browser tools and guides — JSON/SQL/XML, YAML↔JSON, cron, Markdown, UUID v4/v7, and more. Built by Sachin Kasana.',
   keywords: [
