@@ -119,8 +119,8 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Self-Improving AI Agent That Actually Gets Better Over Time](https://ai.gopubby.com/how-to-build-a-self-improving-ai-agent-that-actually-gets-better-over-time-69ad063ae6f3?source=rss-93868c9b8bee------2)
-- [How to Build a Self-Improving AI Agent That Actually Gets Better Over Time](https://ai.gopubby.com/how-to-build-a-self-improving-ai-agent-that-actually-gets-better-over-time-69ad063ae6f3?source=rss-93868c9b8bee------2)
+- [How to Build a Self-Improving AI Agent That Actually Gets Better Over Time](https://sachinkasana.medium.com/how-to-build-a-self-improving-ai-agent-that-actually-gets-better-over-time-69ad063ae6f3?source=rss-93868c9b8bee------2)
+- [How to Build a Self-Improving AI Agent That Actually Gets Better Over Time](https://sachinkasana.medium.com/how-to-build-a-self-improving-ai-agent-that-actually-gets-better-over-time-69ad063ae6f3?source=rss-93868c9b8bee------2)
 - [WebMCP: The Missing Layer Between AI Agents and the Web](https://medium.com/codetodeploy/webmcp-the-missing-layer-between-ai-agents-and-the-web-c3a4d1d802f8?source=rss-93868c9b8bee------2)
 - [WebMCP: The Missing Layer Between AI Agents and the Web](https://medium.com/codetodeploy/webmcp-the-missing-layer-between-ai-agents-and-the-web-c3a4d1d802f8?source=rss-93868c9b8bee------2)
 - [Build a Production-Ready Semantic Cache in Node.js &lpar;Redis + OpenAI&rpar;](https://medium.com/codetodeploy/build-a-production-ready-semantic-cache-in-node-js-redis-openai-10ce9d0fef8c?source=rss-93868c9b8bee------2)
