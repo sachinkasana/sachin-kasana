@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [MCP is Not an Agent-to-Agent Protocol. That’s Where A2A Comes In.](https://medium.com/codetodeploy/mcp-is-not-an-agent-to-agent-protocol-thats-where-a2a-comes-in-17c70d00f5c2?source=rss-93868c9b8bee------2)
+- [MCP is Not an Agent-to-Agent Protocol. That’s Where A2A Comes In.](https://medium.com/codetodeploy/mcp-is-not-an-agent-to-agent-protocol-thats-where-a2a-comes-in-17c70d00f5c2?source=rss-93868c9b8bee------2)
 - [10 Ways to Reduce AI Hallucinations Without Fine-Tuning Your Model](https://blog.gopenai.com/10-ways-to-reduce-ai-hallucinations-without-fine-tuning-your-model-d3bfab080c19?source=rss-93868c9b8bee------2)
 - [10 Ways to Reduce AI Hallucinations Without Fine-Tuning Your Model](https://blog.gopenai.com/10-ways-to-reduce-ai-hallucinations-without-fine-tuning-your-model-d3bfab080c19?source=rss-93868c9b8bee------2)
 - [How to Build a Self-Improving AI Agent That Actually Gets Better Over Time](https://medium.com/codetodeploy/how-to-build-a-self-improving-ai-agent-that-actually-gets-better-over-time-69ad063ae6f3?source=rss-93868c9b8bee------2)
-- [How to Build a Self-Improving AI Agent That Actually Gets Better Over Time](https://medium.com/codetodeploy/how-to-build-a-self-improving-ai-agent-that-actually-gets-better-over-time-69ad063ae6f3?source=rss-93868c9b8bee------2)
-- [WebMCP: The Missing Layer Between AI Agents and the Web](https://medium.com/codetodeploy/webmcp-the-missing-layer-between-ai-agents-and-the-web-c3a4d1d802f8?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
