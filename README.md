@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Things Developers Get Wrong About AI Evals](https://medium.com/codetodeploy/5-things-developers-get-wrong-about-ai-evals-5ff0afb5e814?source=rss-93868c9b8bee------2)
+- [5 Things Developers Get Wrong About AI Evals](https://medium.com/codetodeploy/5-things-developers-get-wrong-about-ai-evals-5ff0afb5e814?source=rss-93868c9b8bee------2)
 - [99.99% Availability Is Easy on a Whiteboard. Production Is Different.](https://medium.com/beyond-localhost/99-99-availability-is-easy-on-a-whiteboard-production-is-different-2fd34d5a61f2?source=rss-93868c9b8bee------2)
 - [99.99% Availability Is Easy on a Whiteboard. Production Is Different.](https://medium.com/beyond-localhost/99-99-availability-is-easy-on-a-whiteboard-production-is-different-2fd34d5a61f2?source=rss-93868c9b8bee------2)
 - [MCP is Not an Agent-to-Agent Protocol. That’s Where A2A Comes In.](https://medium.com/codetodeploy/mcp-is-not-an-agent-to-agent-protocol-thats-where-a2a-comes-in-17c70d00f5c2?source=rss-93868c9b8bee------2)
-- [MCP is Not an Agent-to-Agent Protocol. That’s Where A2A Comes In.](https://medium.com/codetodeploy/mcp-is-not-an-agent-to-agent-protocol-thats-where-a2a-comes-in-17c70d00f5c2?source=rss-93868c9b8bee------2)
-- [10 Ways to Reduce AI Hallucinations Without Fine-Tuning Your Model](https://blog.gopenai.com/10-ways-to-reduce-ai-hallucinations-without-fine-tuning-your-model-d3bfab080c19?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
