@@ -1,6 +1,8 @@
-import Link from 'next/link';
 import Script from 'next/script';
-import { getBlogPosts } from '@/lib/getBlogPosts';
+import BlogCard from '@/components/BlogCard';
+import { getAllPosts } from '@/lib/getAllPosts';
+
+export const revalidate = 3600;
 
 export const metadata = {
   title: 'Blog',
@@ -40,8 +42,8 @@ export const metadata = {
   },
 };
 
-export default function BlogIndexPage() {
-  const posts = getBlogPosts();
+export default async function BlogIndexPage() {
+  const posts = await getAllPosts();
 
   return (
     <>
@@ -54,7 +56,7 @@ export default function BlogIndexPage() {
           blogPost: posts.map((post) => ({
             '@type': 'BlogPosting',
             headline: post.title,
-            url: `https://sachinkasana-dev.vercel.app/blog/${post.slug}`,
+            url: post.external ? post.href : `https://sachinkasana-dev.vercel.app${post.href}`,
             datePublished: post.date,
             keywords: post.tags,
             description: post.excerpt,
@@ -70,8 +72,7 @@ export default function BlogIndexPage() {
           <span className="section-kicker">Blog</span>
           <h1 className="section-title">Writing on performance, architecture, and developer workflow.</h1>
           <p className="section-copy">
-            Practical notes from real engineering work, with a bias toward clarity, measurable
-            improvements, and tools that reduce friction. Also publish on{' '}
+            Practical notes from this site and{' '}
             <a
               href="https://medium.com/@sachinkasana"
               target="_blank"
@@ -80,44 +81,13 @@ export default function BlogIndexPage() {
             >
               Medium
             </a>
-            .
+            , listed together by date. Medium pieces open on Medium; local posts stay here.
           </p>
         </div>
 
         <div className="grid gap-6">
           {posts.map((post) => (
-            <article key={post.slug} className="surface-card">
-              <div className="flex flex-wrap items-center gap-3">
-                <p className="eyebrow">
-                  {new Date(post.date).toLocaleDateString('en-US', {
-                    year: 'numeric',
-                    month: 'long',
-                    day: 'numeric',
-                  })}
-                </p>
-                {post.tags.map((tag) => (
-                  <span key={tag} className="pill">
-                    {tag}
-                  </span>
-                ))}
-              </div>
-              <h2 className="mt-5 text-2xl font-semibold tracking-tight">
-                <Link href={`/blog/${post.slug}`} className="hover:text-blue-700 dark:hover:text-blue-300">
-                  {post.title}
-                </Link>
-              </h2>
-              <p className="mt-4 max-w-3xl text-base leading-7 text-slate-600 dark:text-slate-300">
-                {post.excerpt}
-              </p>
-              <div className="mt-6">
-                <Link
-                  href={`/blog/${post.slug}`}
-                  className="text-sm font-semibold text-blue-700 dark:text-blue-300"
-                >
-                  Read article →
-                </Link>
-              </div>
-            </article>
+            <BlogCard key={post.id} post={post} />
           ))}
         </div>
       </main>

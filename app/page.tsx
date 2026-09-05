@@ -1,9 +1,12 @@
+import { Suspense } from 'react';
 import About from '@/components/About';
-import Blog from '@/components/Blog';
+import Blog, { BlogFallback } from '@/components/Blog';
 import Contact from '@/components/Contact';
 import DeveloperTools from '@/components/DeveloperTools';
 import Hero from '@/components/Hero';
 import Projects from '@/components/Projects';
+
+export const revalidate = 3600;
 
 export const metadata = {
   alternates: {
@@ -18,7 +21,9 @@ export default function Home() {
       <About />
       <Projects />
       <DeveloperTools />
-      <Blog />
+      <Suspense fallback={<BlogFallback />}>
+        <Blog />
+      </Suspense>
       <Contact />
     </main>
   );
