@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Find the Real Bottleneck in a Node.js Backend](https://javascript.plainenglish.io/how-to-find-the-real-bottleneck-in-a-node-js-backend-36eb0b8c228c?source=rss-93868c9b8bee------2)
+- [How to Find the Real Bottleneck in a Node.js Backend](https://javascript.plainenglish.io/how-to-find-the-real-bottleneck-in-a-node-js-backend-36eb0b8c228c?source=rss-93868c9b8bee------2)
+- [How to Build an AI Agent Harness 2.0 and Engineer Better Than 99% of Developers](https://medium.com/codetodeploy/how-to-build-an-ai-agent-harness-2-0-and-engineer-better-than-99-of-developers-028e4fc01b50?source=rss-93868c9b8bee------2)
+- [How to Build an AI Agent Harness 2.0 and Engineer Better Than 99% of Developers](https://medium.com/codetodeploy/how-to-build-an-ai-agent-harness-2-0-and-engineer-better-than-99-of-developers-028e4fc01b50?source=rss-93868c9b8bee------2)
 - [5 Things Developers Get Wrong About AI Evals](https://medium.com/codetodeploy/5-things-developers-get-wrong-about-ai-evals-5ff0afb5e814?source=rss-93868c9b8bee------2)
-- [5 Things Developers Get Wrong About AI Evals](https://medium.com/codetodeploy/5-things-developers-get-wrong-about-ai-evals-5ff0afb5e814?source=rss-93868c9b8bee------2)
-- [99.99% Availability Is Easy on a Whiteboard. Production Is Different.](https://medium.com/beyond-localhost/99-99-availability-is-easy-on-a-whiteboard-production-is-different-2fd34d5a61f2?source=rss-93868c9b8bee------2)
-- [99.99% Availability Is Easy on a Whiteboard. Production Is Different.](https://medium.com/beyond-localhost/99-99-availability-is-easy-on-a-whiteboard-production-is-different-2fd34d5a61f2?source=rss-93868c9b8bee------2)
-- [MCP is Not an Agent-to-Agent Protocol. That’s Where A2A Comes In.](https://medium.com/codetodeploy/mcp-is-not-an-agent-to-agent-protocol-thats-where-a2a-comes-in-17c70d00f5c2?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
