@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Your AI Agent Is Stuck in a Loop. Here Are 11 Ways to Fix It](https://medium.com/codetodeploy/your-ai-agent-is-stuck-in-a-loop-here-are-11-ways-to-fix-it-3372f6d9932d?source=rss-93868c9b8bee------2)
+- [Your AI Agent Is Stuck in a Loop. Here Are 11 Ways to Fix It](https://medium.com/codetodeploy/your-ai-agent-is-stuck-in-a-loop-here-are-11-ways-to-fix-it-3372f6d9932d?source=rss-93868c9b8bee------2)
 - [How to Find the Real Bottleneck in a Node.js Backend](https://javascript.plainenglish.io/how-to-find-the-real-bottleneck-in-a-node-js-backend-36eb0b8c228c?source=rss-93868c9b8bee------2)
 - [How to Find the Real Bottleneck in a Node.js Backend](https://javascript.plainenglish.io/how-to-find-the-real-bottleneck-in-a-node-js-backend-36eb0b8c228c?source=rss-93868c9b8bee------2)
 - [How to Build an AI Agent Harness 2.0 and Engineer Better Than 99% of Developers](https://medium.com/codetodeploy/how-to-build-an-ai-agent-harness-2-0-and-engineer-better-than-99-of-developers-028e4fc01b50?source=rss-93868c9b8bee------2)
-- [How to Build an AI Agent Harness 2.0 and Engineer Better Than 99% of Developers](https://medium.com/codetodeploy/how-to-build-an-ai-agent-harness-2-0-and-engineer-better-than-99-of-developers-028e4fc01b50?source=rss-93868c9b8bee------2)
-- [5 Things Developers Get Wrong About AI Evals](https://medium.com/codetodeploy/5-things-developers-get-wrong-about-ai-evals-5ff0afb5e814?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
