@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Foundational AI Agent Papers Every Engineer Should Understand in 2026](https://sachinkasana.medium.com/10-foundational-ai-agent-papers-every-engineer-should-understand-in-2026-c4fbeb0eeb9c?source=rss-93868c9b8bee------2)
-- [10 Foundational AI Agent Papers Every Engineer Should Understand in 2026](https://sachinkasana.medium.com/10-foundational-ai-agent-papers-every-engineer-should-understand-in-2026-c4fbeb0eeb9c?source=rss-93868c9b8bee------2)
-- [10 AI Developer Tools You Should Try Before Everyone Else Does](https://sachinkasana.medium.com/10-ai-developer-tools-you-should-try-before-everyone-else-does-a10530d814ce?source=rss-93868c9b8bee------2)
-- [10 AI Developer Tools You Should Try Before Everyone Else Does](https://sachinkasana.medium.com/10-ai-developer-tools-you-should-try-before-everyone-else-does-a10530d814ce?source=rss-93868c9b8bee------2)
-- [How to Find Fraud by Looking at 100 Million Relationships Instead of Transactions](https://medium.com/codetodeploy/how-to-find-fraud-by-looking-at-100-million-relationships-instead-of-transactions-93695d20d5a4?source=rss-93868c9b8bee------2)
+- [Your Website Ranks on Google. But Does AI Know It Exists?](https://sachinkasana.medium.com/your-website-ranks-on-google-but-does-ai-know-it-exists-74702f0de84a?source=rss-93868c9b8bee------2)
+- [Your Website Ranks on Google. But Does AI Know It Exists?](https://sachinkasana.medium.com/your-website-ranks-on-google-but-does-ai-know-it-exists-74702f0de84a?source=rss-93868c9b8bee------2)
+- [10 Foundational AI Agent Papers Every Engineer Should Understand in 2026](https://medium.com/codetodeploy/10-foundational-ai-agent-papers-every-engineer-should-understand-in-2026-c4fbeb0eeb9c?source=rss-93868c9b8bee------2)
+- [10 Foundational AI Agent Papers Every Engineer Should Understand in 2026](https://medium.com/codetodeploy/10-foundational-ai-agent-papers-every-engineer-should-understand-in-2026-c4fbeb0eeb9c?source=rss-93868c9b8bee------2)
+- [10 AI Developer Tools You Should Try Before Everyone Else Does](https://medium.com/beyond-localhost/10-ai-developer-tools-you-should-try-before-everyone-else-does-a10530d814ce?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
