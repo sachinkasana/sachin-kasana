@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [LLMs Can Reason. Jev Can Decide. Here’s How to Build Better AI Agents.](https://sachinkasana.medium.com/llms-can-reason-jev-can-decide-heres-how-to-build-better-ai-agents-9a25cac7dc40?source=rss-93868c9b8bee------2)
+- [LLMs Can Reason. Jev Can Decide. Here’s How to Build Better AI Agents.](https://sachinkasana.medium.com/llms-can-reason-jev-can-decide-heres-how-to-build-better-ai-agents-9a25cac7dc40?source=rss-93868c9b8bee------2)
 - [Your Website Ranks on Google. But Does AI Know It Exists?](https://sachinkasana.medium.com/your-website-ranks-on-google-but-does-ai-know-it-exists-74702f0de84a?source=rss-93868c9b8bee------2)
 - [Your Website Ranks on Google. But Does AI Know It Exists?](https://sachinkasana.medium.com/your-website-ranks-on-google-but-does-ai-know-it-exists-74702f0de84a?source=rss-93868c9b8bee------2)
 - [10 Foundational AI Agent Papers Every Engineer Should Understand in 2026](https://medium.com/codetodeploy/10-foundational-ai-agent-papers-every-engineer-should-understand-in-2026-c4fbeb0eeb9c?source=rss-93868c9b8bee------2)
-- [10 Foundational AI Agent Papers Every Engineer Should Understand in 2026](https://medium.com/codetodeploy/10-foundational-ai-agent-papers-every-engineer-should-understand-in-2026-c4fbeb0eeb9c?source=rss-93868c9b8bee------2)
-- [10 AI Developer Tools You Should Try Before Everyone Else Does](https://medium.com/beyond-localhost/10-ai-developer-tools-you-should-try-before-everyone-else-does-a10530d814ce?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
