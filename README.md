@@ -119,11 +119,11 @@ Hi, I’m **Sachin Kasana** — a **Principal Engineer** passionate about buildi
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Prompt Engineering: 8 AI Concepts Worth Understanding](https://sachinkasana.medium.com/beyond-prompt-engineering-8-ai-concepts-worth-understanding-c51f495a2eaf?source=rss-93868c9b8bee------2)
-- [Beyond Prompt Engineering: 8 AI Concepts Worth Understanding](https://sachinkasana.medium.com/beyond-prompt-engineering-8-ai-concepts-worth-understanding-c51f495a2eaf?source=rss-93868c9b8bee------2)
+- [9 Places Jev Could Replace an LLM Call in Your AI Application](https://sachinkasana.medium.com/9-places-jev-could-replace-an-llm-call-in-your-ai-application-e05bdea5079e?source=rss-93868c9b8bee------2)
+- [9 Places Jev Could Replace an LLM Call in Your AI Application](https://sachinkasana.medium.com/9-places-jev-could-replace-an-llm-call-in-your-ai-application-e05bdea5079e?source=rss-93868c9b8bee------2)
+- [Beyond Prompt Engineering: 8 AI Concepts Worth Understanding](https://medium.com/beyond-localhost/beyond-prompt-engineering-8-ai-concepts-worth-understanding-c51f495a2eaf?source=rss-93868c9b8bee------2)
+- [Beyond Prompt Engineering: 8 AI Concepts Worth Understanding](https://medium.com/beyond-localhost/beyond-prompt-engineering-8-ai-concepts-worth-understanding-c51f495a2eaf?source=rss-93868c9b8bee------2)
 - [LLMs Can Reason. Jev Can Decide. Here’s How to Build Better AI Agents.](https://medium.com/codetodeploy/llms-can-reason-jev-can-decide-heres-how-to-build-better-ai-agents-9a25cac7dc40?source=rss-93868c9b8bee------2)
-- [LLMs Can Reason. Jev Can Decide. Here’s How to Build Better AI Agents.](https://medium.com/codetodeploy/llms-can-reason-jev-can-decide-heres-how-to-build-better-ai-agents-9a25cac7dc40?source=rss-93868c9b8bee------2)
-- [Your Website Ranks on Google. But Does AI Know It Exists?](https://blog.gopenai.com/your-website-ranks-on-google-but-does-ai-know-it-exists-74702f0de84a?source=rss-93868c9b8bee------2)
 <!-- BLOG-POST-LIST:END -->
 
 More writing → https://sachinkasana.medium.com/
